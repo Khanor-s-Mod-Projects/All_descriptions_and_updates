@@ -1,0 +1,65 @@
+06.06.2021
+Version 1.3.2 "Expeditionary Forces", Collie update, mod streamlining and slight tweaks (1.10.* Collie compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Updated all relevant files in the mod to the latest 1.10.* Collie updates, including the most recent TGW improvements where relevant.
+
+[*]Updated BA's original portrait paths and folder structure to new TGW-standard/formatting.
+
+[*]Cut the state history, airports, buildings and rocketsites changes to state 5 (Ermland-Masuren/East Prussia) and state 85 (Danzig) and set them back to what TGW uses as they're good enough, and to keep only the most essential improvements outside the Balkans and their vicinity. This should make the submod more focused, and easier to maintain.
+
+[*]Slight improvements to the first two bookmarks for Serbia, Bulgaria and the Ottomans in terms of visuals like the order of ideas matching ingame ideas, etc.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Improved certain idea localisations.
+
+[*]Removed redundant localisation files and streamlined them into existing files to reduce the number of files and create an easier to maintain mod.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Buffed the Serbian "Military-Technical Works, Kragujevac"-idea with a light artillery cost reduction. Buffed the British ideas "Empire Expeditionary Force" and "Recruitment Drive" with some additional leader experience gain to accentuate a point made in the new localisation of the aforementioned.
+
+[*]Removed the air_doctrine-file (in the common/technologies folder) as BA no longer needs to make edits to it. Further rebalanced technologies in the land_doctrine-file to make the early technologies fit with BA's vision of the Great War.
+
+[*]Further touch-ups to the resource costs of motorized equipment, leaning heavier towards wood and less heavy on the steel for the horse drawn carriages, then transitioning into needing additional steel and starting to need rubber for the actual trucks.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+09.06.2021
+Version 1.3.2a "Expeditionary Forces", fixes and rebalancing (1.10.* Collie compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Added remaining/overlooked new portrait paths and icons from TGW to the history and idea files edited by Balkans Ablaze (BA).
+
+[*]Serbia will now have to deal with the Black Hand organization in the 1914 starting scenario as well.
+
+[*]Added new Serbian interface changes to ensure they now have their historically accurate Mauser M1899 technology/equipment icon for their service rifles at game start.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Slight localisation improvements, and further tweaked localisation file structure to ensure BA's localisation improvements stay.
+
+[*]In addition to fixing Bulgarian infantry weapon localisation properly (Mosin-Nagant M91 into Mannlicher M96g, in line with history/BA's research), added localisation for the first Serbian infantry weapons so they can have their historically accurate Mauser M1899 names for their service rifles at game start.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Rebalanced the technologies for the first land doctrine in the land_doctrine-file again, with the best from both last version, and the versions before that. The plan is matching the names/descriptions of the technologies, making the Great War hopefully flow more historically and, hopefully, making the doctrine's split choices actually balanced choices to be taken depending on circumstances and/or preferences.
+
+[*]Motorized resource costs came out cheaper than intended, now wood and steel costs are again a bit steeper, though leaning heavier on wood early like intended with the last update.[/list]
+
+

@@ -1,0 +1,21 @@
+13.06.2018
+Version 1.0.0 - Initial Upload
+
+
+
+14.06.2018
+Version 1.0.0b - Small update to fix spelling errors and improve the flavor text
+
+[b]Localisation[/b]
+[list]
+[*]Fixed certain spelling errors and improved on flavor text language.[/list]
+
+
+
+Version 1.0.0c - Thumbnail update
+
+[b]Other[/b]
+[list]
+[*]Made the thumbnail picture a tad more descriptive.[/list]
+
+

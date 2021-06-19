@@ -1,0 +1,28 @@
+17.11.2019
+Version 1.2.4 - Version 1.8.0/1.8.1 Compatibility, Integration of new Paradox stuff, QoL focus improvements, Italian and Austro-Hungarian features (1.8.* Fork compatible)
+
+[b]Features[/b]
+[list]
+[*]Added news event for Austria-Hungary moving their capital to Vienna, with localisation, picture and full functionality.
+
+[*]Added the possibility for Italy to reintegrate and fully incorporate Savoia if they can get it from France, in two separate decisions. France has two decisions doing the opposite in case they could make a comeback after Italy takes it from them. Functions like the Finnish/Soviet decisions for the border states in Karelia. Full and tested functionality, localisation and description (for the new Italian Land Reintegration decision category) has been added.
+
+[*]Updated for 1.8.0/1.8.1, and caught up on all the features between now and the last NE update. Added descriptor.mod file to the mod folder.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added localisation for the new event, decision category and decisions.
+
+[*]Updated the mod's description by purging some old information that was no longer necessary, and improved the Q&A section with a new and more relevant question.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated the Canadian, the generic, the Italian, the Hungarian and the Yugoslav focus files with new stuff Paradox has added since last time I updated the mod, including a few upgrades to cores added even before then that I missed in the Hungarian focus tree. In addition to the new things Paradox added such as ideas becoming timed ideas, more aluminium gained and infrastructure for new states, I've also added some further quality of life upgrades such as better AI strategies from focuses (AI Bulgaria and Austria-Hungary being more willing to ally/befriend/protect each other with the relevant focuses taken for Hungary).
+
+[*]Added all the new stuff and improvements Paradox added to the generic idea file some time ago. Now the decision related stuff is there, and the generic company/theorists give the new bonuses adapted to the newer research speed based system (instead of the old research time based system).[/list]
+
+

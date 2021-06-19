@@ -1,0 +1,32 @@
+31.03.2019
+Version 1.0.4, MtG/Ironclad update, content, history, streamlining and localisation works (1.6.* MtG compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated the mod for MtG/Ironclad and the new TGW update.
+
+[*]Updated old unit/OOB files, and added more naval unit files for Bulgaria. Now there are some both for MtG, and for playing without MtG.
+
+[*]Updated history file (with starting idea, and new army leader Ivan Kolev, added by TGW mod in a previous update), and added a light cruiser class and a destroyer class for Bulgaria if MtG is activated, the "Nadezhda class" and the Drazki class, respectively.
+
+[*]The Sofia Artillery Arsenal idea/national spirit for Bulgaria is now with them from the very start rather than instantly added from the starting event. It's now also showcased in the country selection screen, which is now edited a tad with BA.
+
+[*]Updated state and map files to account for changing vanilla states, TGW changes and shuffled state numbers.
+
+[*]Cut some redundant localisation files, and formatted the BA specific localisation files to ensure it's both nice to work with and in line with base game loc-file formatting.
+
+[*]Also cut some state files for states I felt no need to differ from TGW and/or vanilla, and switched state numbers of new state additions.
+
+[*]Tried to keep event files updated with the newly shuffled state numbers (when HoI IV vanilla states are added, this often pushes TGW state numbers upwards when new vanilla states are implemented directly, which then push BA added states upwards. These numbers then need to be updated in map files, localisation files and event files).
+
+[*]Added a replace folder and file for localisation, for where I want to change localisation from the base game to something befitting the period more.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Redid resources in a couple Ottoman owned Balkan states with regards to the newest TGW update. Now there's a tad less stuff around Constantinople, meaning the Ottomans will have need of Anatolia and solid imports. Still, BA is still a bit more lenient than TGW alone in this regard.
+
+[*]The Ottoman "German Armament Imports" idea and event chain now gives an even larger discount for extensive conscription if the Ottoman player/AI decides to go for it (now the option only costs 75 political power).[/list]
+
+

@@ -1,0 +1,186 @@
+01.11.2019
+Version 1.2.0a "The Pioneers", Map, Localisation and Polishing update (1.7.* Hydra compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Reshaped Morava, Pirot, Struma Valley, Štip and Northern Thrace's provinces to enable an accurate border between Bulgaria and Serbia, and Bulgaria and the Ottomans in 1910, and to allow an accurate border between Kavala and Northern Thrace states (e.g. border between Greece and Bulgaria) should Bulgaria lose Kavala to Greece in the Second Balkan War. Buildings moved where necessary to keep visuals at least as nice as before.
+
+[*]Reshaped Northern Thrace's borders with Bulgarian Eastern Rumelia (Varna and Stara Planina in game) to better represent the borders of May 1910. Building graphics moved a bit too.
+
+[*]Reshaped Montenegro's starting border with the Kingdom of Dalmatia in Austria-Hungary to something closer to the historical borders of May 1910.
+
+[*]Moved the building graphics in Varna to make the state look nicer when built up.
+
+[*]Added Zadar city to Zara state, and changed it to its roughly historical population for May 1910 (based on historical statistics for the municipality).
+
+[*]Also renamed Zara state to Zadar.
+
+[*]Moved one province from Ermland-Masuren to Danzig like in the base game. Moved bulidings to keep visuals at least as nice as before. This also should enable the historical Treaty of Versailles borders between Germany and Poland.
+
+[*]The Dodecanese Islands now have roughly their historical population in May 1910.
+
+[*]Added the correct and most historical early infantry equipment for Bulgaria (picture link in the interface file and localisation have been changed), instead of the Madsen machine gun, etc. Now basic is Mosin-Nagant, with Mannlicher's 1895 model magazine rifle as the second level.
+
+[*]Added a small new starting debuff for the Ottomans. Decisions to remove it later in the game are planned for the future.
+
+[*]Added unlockable French Army Staff idea for France, with picture, localisation, as well as event, event picture and event localisation.
+
+[*]Added unlockable Recruitment Drive idea for the United Kingdom, with picture, localisation and its own event and event localisation.
+
+[*]Added Italian and Austro-Hungarian homeland defense strategies so they prioritize defending their integral lands in the Italian, Alpine and West Balkan regions enough.
+
+[*]Added a couple more early historical strategies for France and Germany should historical mode be on.
+
+[*]Other small strategy tweaks.
+
+[*]Instead of copying over some of the newer HoI IV idea pictures not in TGW, I now instead call on the newer ones in the base game and DLCs, that are not in TGW, directly via the interface file, and thus save some space for the mod.
+
+[*]Added Austro-Hungarian division names, though only some of these are linked with starting divisions in 1910 and 1914 (certain mountain brigades). Certain Bulgarian and Greek division name counters have been further mutually linked to each other where it seemed appropriate (Bulgarian inf, mot and mec, Greek inf, mot, mec, arm and gar).[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Polished the localisation in the final event of the event chain for the delivery of the Farman III planes from France.
+
+[*]Improved the writing for the localisation of the Ottoman Army Staff idea.
+
+[*]Tweaked a Bulgarian focus completion tooltip to be more in line with what the focus actually gives or have given.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Finally updated the "airports" and "rocketsites" files to make sure the actual functional airport and rocket site provinces match their visuals on the map. Also added fuel silos to the states that were missing this in the "buildings" file along with other changes there.
+
+[*]Corrected the relation modifier applied to the Ottomans against France when doing the anti-French focus.
+
+[*]Improved Ottoman faction alignment focus AI with regards to historical mode, if they're at war with any of the faction leaders and which faction Russia is in.
+
+[*]Tweaked AI modifiers for the decision to purchase planes from France a tad down in some cases.
+
+[*]The starting events now add a tad more equipment to the armament stores of Serbia, Bulgaria and the Ottoman Empire. Especially some outdated infantry equipment to be used in case of war outbreak was deemed necessary and historical by me.
+
+[*]Added a consumer goods cost to the powerful timed idea for the Balkan League, "Balkan Mobilization". The command power gain has also been exchanged for a training time reduction, and the other modifiers have been nerfed to half of their old values. This was in part to make up for the increased starting equipment of Bulgaria and Serbia, but also because it makes sense that it has a cost.
+
+[*]Tweaked the "German Armament Shipments to the Ottoman Empire" idea by removing the army experience gain. It was unnecessary and it looked rather unclean interface-wise.
+
+[*]Further discouraged Italy from joining the Balkan League both through idea and the Italian AI strategies file.
+
+[*]Fixed Serbian claim being applied to Southern Albania/Northern Epirus rather than Northern Albania like intended. Now it's been fixed according to the historical plans for divide by Serbia and Greece prior to the Balkan Wars.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+08.11.2019
+Version 1.2.0b "The Pioneers", Bugfix, Feature and Event-integrity update (1.7.* Hydra compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Montenegro, Northern Macedonia and Raška-Kosovo Field (previously South Serbia) have been buffed to developed rural regions. Varna has become a sparse urban region, while Muntenia and Constantinople have become dense urban regions. Western Thrace has been nerfed to a pastoral region.
+
+[*]Western Thrace is no longer a Greek core at the start, only a claim.
+
+[*]Added Pola to Istrien state, which was the main naval base of Austria-Hungary. Also added a couple of levels of naval bases to Triest, as such an important coastal city surely had working ports. The state also starts with one more level of infrastructure now.
+
+[*]Rejigged all the building graphic placements in Istrien (Istria) state to make it nice to look at when developed.
+
+[*]Added two new ideas for Montenegro, related to how they're influenced with the decisions, and new leader traits for Nikola I should they be dragged into the Second Balkan War and win. Also reworked the news events for Bulgarian victory with regards to the new features.
+
+[*]Added new starting idea for Serbia, the Military-Technical Works, making infantry equipment cheaper, and reducing the cost of license production. The last part has also been added to Sofia Artillery Arsenal for Bulgaria.
+
+[*]Added new economic decision for the Ottomans to reduce the impact of their starting debuff, Developing Agrarian Society, and a new idea to take said debuff's place after the situation has been improved.
+
+[*]Tweaked both bookmarks with new ideas added over the last few updates to the Ottomans and Serbia.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Improved the spelling and formatting of some ideas, decisions and tooltips.
+
+[*]Added localisation for all the new stuff added.
+
+[*]East Montenegro renamed to Sandžak and South Serbia renamed to Raška-Kosovo Field, which was more fitting and would fit other possible owners slightly better too.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Montenegro now always sides with the side that has 10 or more influence towards their side when Bulgaria finishes the "Criticize the London Peace Conference" focus. The calculations have been moved from the Montenegrin events to there to ensure an easier time to for the players timing this. The calculations are later used in the events like earlier, but with smarter use of variables (now only one new global variable is created, and the checks have been reworked a bit). If less than 10 towards either side, Montenegro will mostly go neutral now, but they are also free to side with the side that has more influence points than the other in this situation. The political power reward follows a similar logic, with Montenegro winning it if neither side has at least 10 influence more than the other.
+
+[*]Montenegrin event option triggers fixed so the influence variables are weighed properly. The AI is also blocked from choosing the other options if either side has an influence lead of 10 or more. At exactly 0 the AI can only go neutral, and from 1-9 towards either side the AI can side with the one with the slight lead or go neutral, though they will heavily lean towards neutrality in this case.
+
+[*]Also made a bit more use of the AI timer flags of the decisions, with AI Montenegro, Bulgaria and Serbia spamming the decisions a bit less. This should ensure they have a bit more political power to spare for other useful stuff.
+
+[*]AI alliance/befriend/ignore/invade modifiers for Montenegro, given by different influence events have been rebalanced to ensure the AI sides with the country they're supposed to side with. Some relation modifiers have also been changed a bit.
+
+[*]Fixed possible issues in the Second Balkan War event file adding Montenegro to wars and factions when they were not supposed to be added to said wars or factions.
+
+[*]Many second Balkan War related events are also a lot more robust now handling more unusal situations, and they're generally a bit more flexible with checking for the current situation before taking certain actions.
+
+[*]Reworked the peace treaty AI and effects between Bulgaria and Greece during the Second Balkan War. The Bulgarian AI should now be a tad more sophisticated with whether to keep things going or making early peace with Greece. Previously would always take the early peace as that is usually the smarter choice for the AI.
+
+[*]Horse Drawn Carriages now cost wood instead of rubber.
+
+[*]Buffed the Serbian Army Theorist to the standard values of the current HoI IV base game version, like was previously done for Bulgaria and the Ottomans.
+
+[*]Tsar Ferdinand will now go back to the Balkan Hegemonist trait from the Balkan Maximalist trait if Bulgaria goes down the Peace and Neutrality focus.
+
+[*]Rebalanced the potential upgraded version of Bulgarian Militarism to give more fitting additional bonuses.
+
+[*]Swapped the idea pictures of the Bulgarian Aviation idea with the Greek and Ottoman ones, which seemed more fitting with the Eagle for Greece and the Ottomans, and the air dropped bombs for Bulgaria.
+
+[*]Modified TGW's Luxembourg event file to ensure their new monarch from the events has the new leader trait and has her name spelled correctly, especially now that Paradox have been more lenient with accents and regional letters for some time.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+16.11.2019
+Version 1.2.0c "The Pioneers", Balance, Event, 1914 History and Resource Usage update (1.8.* Fork compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Coal is now used for constructing most ships from 1918 and before, representing the coal stores they would need to stay operational (they still use fuel too, though, so there's at least some long term cost).
+
+[*]Kufra is now owned by Egypt rather than the UK at the start, and Egypt also gets a core there. The Treaty of Frankfurt will now only bother to transfer it to them after the Ottomans puppet them if they don't already own it by that point.
+
+[*]Updated for 1.8.0/1.8.1 Fork, and added the new required descriptor.mod file to the mod's folder.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Further improved the writing of the Ottoman Army Staff idea towards the end of the description text.
+
+[*]Added a line break at the end of the description text of two of Bulgaria's design companies, so the texts clutter less with the functionality tooltips there.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed 1936 motorized so it again costs rubber like intended.
+
+[*]Removed unneeded rule functionality in the upgraded version of the Bulgarian Militarism idea.
+
+[*]Fixed the Brest-Litovsk Treaty and the Soviet Civil War events with regards to Ukraine and Mongolia specifically for a more historical outcome, and also to make the core giving focus for the Soviets be useful as now the Russian/Soviet cores on Ukraine are removed like intended from the events before this. Now the Soviets will need to chill a bit before having the possibility of a reconquest war on Ukraine. Mongolia was mainly fixed so they side with the Whites first, and then switch to the Reds when the Reds gain the upper hand to some extent. Also since Mongolia is now added to their factions they should no longer join the Entente, the Central Powers or other weird stuff.
+
+[*]Balkan Threat variables, VP names, diplomatic relations, ruler traits, decision requirements and Ottoman cores are now updated for the 1914 start, and Persia will no longer suffer the effects of the End of the Constitutional Revolution idea at that bookmark, as said idea was meant to time out a lot earlier.
+
+[*]Allocated more Bulgarian factories to equipment in both the 1910 and 1914 start so there's less micro, and ensured that Bulgaria starts with updated infantry weapon in production in 1914, as just basic, outdated infantry equipment at that point didn't make sense.
+
+[*]Imported TGW's naval research speed fixes for the relevant edited history files.
+
+[*]Shifted the Bulgarian focus requirements for the second level infrastructure focus a tad. Now checks for the previous infrastructure focus instead of the dockyard focus. Also updated the completed/unlocked 1914 focuses a bit, so you still have the choice of who to side with as Bulgaria (the bookmark shows off siding with the Entente as a possibility, so I found it only fair). Now some industry, internal development and the relevant post-Balkan Wars focus are completed/unlocked instead of the three Central Powers aligning focuses that were there in earlier versions. Not that I think the 1914 bookmark can really stand up to the popularity of the 1910 one, but I figured it would be nice to give people a more playable second scenario too. Also joining the Central Powers at the historical time or earlier is still very much possible.
+
+[*]Fixed an army manpower related trigger for both the British Recruitment Drive idea, and, more importantly, the French Army Staff idea (which didn't have alternate triggers/conditions). Now players should see France getting this while at war like intended.
+
+[*]Corrected the Austro-Hungarian unit name lists for the mountaineer division names and the mountaineer brigade names. They were not correctly assigned to the mountaineer unit type earlier, but now they are.[/list]
+
+

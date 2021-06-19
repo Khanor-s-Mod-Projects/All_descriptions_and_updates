@@ -1,0 +1,23 @@
+21.06.2018
+Version 1.0.0d - Dependency/Compatibility update
+
+[b]Other[/b]
+[list]
+[*]Set "Nationalism Extended" as a dependency of this mod, so this mod should have priority. This shouldn't matter in most cases, as they use the exact same files for this mod's functionality. The main purpose of this is to get this mod to have priority in the case of both mods needing to be updated at once. In such a case this mod would likely be updated first due to its small size, and players of the mods would get the updated MNM functionality as soon as possible.[/list]
+
+
+
+22.06.2018
+Version 1.0.0e - Localisation and mod dependency update
+
+[b]Localisation[/b]
+[list]
+[*]Added a Spanish translation of high quality. See the mod description for credits.[/list]
+
+
+
+[b]Other[/b]
+[list]
+[*]Set "Nationalism Extended" as a dependency of this mod, for real this time. The dependencies of mods were apparently meant to be assigned by mod name, not file name. Now the ".mod" file has been updated to account for this.[/list]
+
+

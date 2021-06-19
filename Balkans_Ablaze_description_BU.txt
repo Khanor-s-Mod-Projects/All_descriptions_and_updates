@@ -1,0 +1,45 @@
+[h1]Balkans Ablaze, a Balkan flavor submod for HoI IV: The Great War[/h1]
+- Version 1.3.2a "Expeditionary Forces" (1.10.* Collie compatible)
+
+[b]Introduction[/b]
+
+100 years and 10 days after the end of the First World War, one new submod for the eponymous Great War mod has been published by me. Ironically focusing on the place that started it all; the Balkans, and especially the Balkan Wars and events surrounding the participants. Unlike most games and modifications that may come at these topics with the often simplified and biased notions formed from looking at the outcomes and winners of history rather than the prerequisites for what could have happened, I intend to look at the prerequisites of each of the relevant countries, and the numbers and facts at the ground, at the time. As such this mod will be built around the country that had every prerequisite and possibility for greatness at the time, but somehow did not turn out to become one of the winners, namely Bulgaria. And they [i]will[/i] be powerful to represent said prerequisites for growth, prosperity and conquest. Research will be done to ensure an accurate situation at the start of the game; equipment, armies, territories, cities, commanders, important statesmen, diplomacy, economies and so forth. Indeed we will try for the accurate feeling of an early 1900s Balkan Peninsula. As of the 1.2.0 "The Pioneers" update, Bosnia, Montenegro, Serbia, Greece, Crete, Cyprus, Ottomans in Europe, Bulgaria and Romania have historical May 1910 populations. That's right, not 1910 populations, MAY 1910 populations. This should help immersion significantly.
+
+That is not to say there won't be stuff for Greece, Serbia, the Ottomans, Montenegro, and maybe even Austria-Hungary and Romania in time, in fact the first four already have varying amounts of flavor added to them. This will set them all up with their prerequisites, and allow them all to prosper if some smart actions and maybe a bit of luck are in place. As for now, enjoy new ideas, loads of new flavor events, a possiblity (and accompanying events) for Bulgaria to avoid, or even win, the Second Balkan War, many new cities in and around the Ottoman Balkans and beyond, reshaped states for accurate territorial divisions (and naming, looking at you "Central Thrace"), flavor texts for Bulgarian, Turkish, Greek and Serbian artillery, French made historical pioneer era airplanes, improved peace treaties (hello Enos-Midia line), focus tree improvements, revamped commanders, and much, much more...
+
+As of the 1.1.0 September 2019 update, flavor and gameplay have taken a turn for the very ambitious. You can expect flavorful updates with new decisions and stuff to do for the next few updates. Unfortunately though, there is real life to attend to, so the mod might take a while to update after big HoI IV and/or TGW updates.
+
+
+
+[b]Requirements[/b]
+[list]
+[*]Up to date version of Hearts of Iron IV.
+
+[*]Up to date version of the Hearts of Iron IV: The Great War mod.
+
+[*]Up to date version of Balkans Ablaze, though sometimes this is not required due to the mod's somewhat limited scope.[/list]
+
+
+
+[b]Localisation and language[/b]
+[list]
+[*]Only English language support for now.[/list]
+
+
+
+[b]Credits[/b]
+[list]
+[*]Wolferos for developing the main mod.
+
+[*]The Balkans Ablaze fans, for their support and high expectations :)
+
+[*]Also check out the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2440260349]TGW Megasubmod[/url] for a more expansive take on TGW flavor additions, it has Balkans Ablaze largely integrated too! Though remember to only play with one of BA or the TGW Megasubmod per game, as they are not meant to be used at the same time.[/list]
+
+
+
+For those who wish to support my modding endeavors: Give the mod a like, leave a comment and/or some constructive feedback, share the link with your friends, or support Wikipedia, other knowledge aggregate pages and/or historical museums with your eventual spare change. If you really, really like the mod, and would like to support me directly, you're very welcome to leave a one time donation to cover my modding "fuel expenses" (mainly caffeine and some occasional nutritious food):
+
+[url=https://ko-fi.com/khanor] [img]https://i.imgur.com/i08683D.png[/img] [/url]
+
+Thanks for playing!
+[i]Khanor[/i]

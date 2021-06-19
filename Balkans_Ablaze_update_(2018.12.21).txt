@@ -1,0 +1,30 @@
+21.12.2018
+Version 1.0.3, gameplay and AI improvements, additional features (1.5.4 WtT compatible)
+
+[b]Additions[/b]
+[list]
+[*]Added decision category framework and some simple Military Drill decisions for Bulgaria. There will be more interesting decisions in the future, but for now you have a thematically appropriate use for excess political power when at peace as Bulgaria.
+
+[*]Added starting trait for Tsar Ferdinand, and that one might change with gameplay and different outcomes of the Balkan Wars (indeed these "evolved" traits have been added as well).
+
+[*]Added several new ideas and timed ideas. Romania can prepare for Balkan War intervention, while Bulgaria also gets Balkan War Revanchism like Serbia should they lose out in the Second BW.
+
+[*]New localisation for new features.[/list]
+
+
+
+[b]Fixes/Rebalancing[/b]
+[list]
+[*]Improved AI for Romania and the Ottomans. They should now be a tad better at manning the Bulgarian border, and a tad more aggressive, once the Second Balkan War ignites.
+
+[*]Slightly nerfed the "Balkan War Revanchism" idea for Serbia, as it was a little too strong in combination with the "Serbian Fighting Spirit" idea. It has also been made into a timed idea with a duration of 10 years instead of staying forever, which is still plenty of time to act with its benefits. The newly added Bulgarian one mirrors the Serbian one in duration and effects.
+
+[*]Improved Bulgarian historical aggressiveness with changing leader traits. Now success in the First Balkan War should increase their aggressiveness further, while defeat in the Second one should put a significant dampener on AI willingness to go on the offensive in future wars.
+
+[*]Added naval bases and appropriate victory point amounts to several states in and around Bulgaria. Constanta nerfed, Central Macedonia/Thessaloniki/Solun buffed, and a small naval base added to Kavala. Cetinje is worth a tad less victory points, Belgrade stays the same, Sofia and Edirne is worth a tad more, while Constantinople/Istanbul is now worth a lot more (fitting population numbers/importance/facilities).
+
+[*]Slightly increased Ottoman willingness to take the intervention focus for the Second Balkan War.
+
+[*]Improved old localisation a tad.[/list]
+
+

@@ -1,0 +1,54 @@
+23.09.2019
+Version 1.1.2, Large Flavor and Naming Update, with fixes for old and new stuff (1.7.* Hydra compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Added Dimitar Dobrev as a starting admiral for Bulgaria, with historical portrait (replaces the old "Dobrev" naval leader with no own portrait. Also added nice personality traits and skill allocation to him and "Rashko Serafimov" (replaces "Serafimov". Same portrait).
+
+[*]Added much smarter decision AI, both regarding the Montenegrin Allegiance decisions (which have also received a significant fix) and the Bulgarian Army drills. The Montenegrin AI in particular now spends less overall on the Montenegrin Allegiance decisions, and for all three country the investments don't fall of too much after a set amount of time now, among other AI modifier driven stuff. For the Bulgarian Military Drill decisions the base willingness have been reduced massively, but it's increased tenfold and more with large reserves of political power.
+
+[*]Added mod test events, mostly to speed up testing and add fun new stuff to my ongoing playthroughs. You can access them to in the Balkans_ablaze event file if you already started a game and need some of the new fixes, or some of the new stuff. For instance if you've started a game as Bulgaria before this update, you can use "event balkans_ablaze.1030" and option b, then repeated with option a, in the command console to first remove the old uninspiring naval commanders, and then secondly add the revamped much nicer versions of them.
+
+[*]Added some more interesting focuses to the Bulgarian bookmarks.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Full MtG ship name lists for Bulgaria and Greece, with research done on historical ship names. The ships from the time period (1910 onwards) have been added at the very front of the 1936 ships lists, so now you get historical ship names for the time transitioning into ship names for the interwar period and onwards should you bother to play that long. The Bulgarian one has also been expanded with some plausible ones at the end, so you don't run out. Also no more "Svetlina" for the generic light cruiser name when the actual names run out. The "Historical Destroyers" tab/name list has been changed into "Historical TB/Destroyers" for both Bulgaria and Greece to fit the ships of the time too.
+
+[*]Full land unit lists for Greece, including linking all starting units to these lists. Also these have historical division counting with Roman numerals. Previously we had this for Bulgaria (with full name linking) and a basic one for the Ottomans (infantry, cavalry, garrison, all linked with their starting units).
+
+[*]Description for Tsar Ferdinand.
+
+[*]One new city for Serbia, one for Bulgaria, and two for the European part of the Ottoman Empire.
+
+[*]Not Balkan, but: The Petrograd/Leningrad state (state with St. Petersburg) is now named Ingria to fit better with the start of the game.
+
+[*]Some smaller localisation fixes/improvements.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]No more Italy in the Balkan League. Seriously. I got fed up myself, and now there are three separate fixes just to make sure. Two in AI strategies, and one timed idea given by event. They should not call in any potential faction members to the Italo-Ottoman war either if they somehow join France or Germany early.
+
+[*]Fixed the Montenegrin Allegiance focuses being broken with comparing variables. Now the winners should get the political power correctly (Serbia/Bulgaria wins with 10 or more points in their direction, Montenegro if the points of Serbia and Bulgaria are no more than 9 points of value different from each other). Also nerfed this outcome to half the political power gained so it's not crazy good to win it. The tooltips have been updated, but requires careful reading to catch this (probably).
+
+[*]Hopefully Montenegro should now also not join with Serbia and Greece if Bulgaria has them influenced the most.
+
+[*]Fixed the threat allocation from several events. The Balkan League attacking the Ottomans now correctly gives two threat to each of the three bigger members.
+
+[*]The Ottomans now correctly starts with a core on the North Aegean (state/Islands).
+
+[*]Greece and Serbia now correctly get a claim on one part of Albania each when the first Balkan League is formed, as was largely the intention before the war and the Treaty of London.
+
+[*]Edirne/Odrin/Adrianople moved to its correct province. The two starting "trenches" moved with it to represent the fortress there. "Kırk Kilise", which was one of the cities added this patch would also fit in this province, but it was instead added to the province to the east of this one to have them both. Both of these were important cities and battle sites in their own right at the time. Also updated the events targeting these.
+
+[*]Fixed an event linking the wrong option text/localisation, giving not an inappropriate message, but not the intended one. Now a Bulgaria that's very successful in the Second Balkan War will have a bit more variation in its event replies.
+
+[*]It's now a tad easier to knock the Romanians and Ottomans out of the Second Balkan War as Bulgaria. There were several ways before, and now more. The simplest of them all is probably to control their capitals until the events trigger.
+
+[*]Rebalanced the German Staff idea to no longer give them such an unrealistic edge manpower wise, and to tone down the army experience gain just a tad. Starting Level for unit leaders (commanders) replaced with Starting Planning Level for unit leaders, as seemed more appropriate (and also more interesting).[/list]
+
+

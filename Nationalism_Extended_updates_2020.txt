@@ -1,0 +1,86 @@
+06.03.2020
+Version 1.3.0 - New features and update for La Résistance/Husky (1.9.* Husky compatible)
+
+[b]Features[/b]
+[list]
+[*]Added Georgian land reintegration decisions and a category, with optional followup decisions to rename stuff. This includes full localisation names and historical flavor text. Also made the unlockable core on Erzurum possible to get by focus as well.
+
+[*]Added an additional Austrian land reintegration decision (with a little extra flair compared to the usual), and enabled Hungary doing the restoration of A-H access to this and all formerly added Austrian decisions.
+
+[*]The Bulgarian decision to fully incorporate Trakiya (Thrace) now also renames the new VP/city.
+
+[*]Updated for 1.9.0 through 1.9.1 and beyond, and caught up on all the features between now and the last NE update. Now the focus search functions are enabled for all modded focuses, as well as all relevant added NE focuses. Adapted these filters for buffs added by NE too.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]New localisation for Georgia and their new decisions.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated the MNM-decisions file with respect to the new and renamed French focuses.
+
+[*]Poland now also unlocks building slots when they do their naval buildup focus.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+09.03.2020
+Version 1.3.0a - Bonus Content update (1.9.* Husky compatible)
+
+[b]Features[/b]
+[list]
+[*]Added 12 new Austrian decisions, also available for Hungary having gone the Reform the Austro-Hungarian Empire path.
+
+[*]Added 6 new Hungarian decisions and a category for them, also available for Austria with the global flag for having Reformed the Austro-Hungarian Empire by decision.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Localisation for all new decisions and the new decision category, and also added historical state and city/VP renaming to half of all the added decisions.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Added a total of 60 more army experience to three focuses of the Hungarian focus tree since they were a bit starved for army experience.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+01.12.2020
+Version 1.3.1 - Battle for the Bosporus/Collie update, with some content (1.10.* Collie compatible)
+
+[b]Features[/b]
+[list]
+[*]Updated all relevant files for the newest Battle for the Bosporus DLC and the 1.10.* Collie patch, though the Yugoslavian focus file was deleted, as the current base game/DoD one is good enough on its own now.
+
+[*]Added new state reintegration decisions for Macedonia and Bulgaria, updated old ones. Also added a new decision category for Macedonia.
+
+[*]Added new state flags to control full reintegrations with the same effects for multiple countries (e.g. Macedonia and Bulgaria which have effect overlap).
+
+[*]Updated Hungary, Albania, Macedonia, Bulgaria and Turkey with new, unlockable state cores/claims in the generic focus tree.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]New localisation for the added decisions and decision category. Also new names used in renaming certain states.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Revised which states certain claims and cores are given for due to new state additions by Paradox.[/list]
+
+

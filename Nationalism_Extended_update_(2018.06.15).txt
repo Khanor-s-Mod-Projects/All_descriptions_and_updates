@@ -1,0 +1,50 @@
+15.06.2018
+Version 1.2.1 - Quite sizeable content, balance, streamlining, and integration update (1.5.3 WtT compatible)
+
+[b]Content[/b]
+[list]
+[*]Added new poltical path, starting with the "Traditionalist Ethos" focus. This is for those players who wish to play as non-aligned/traditionalist countries.
+
+[*]Added decisions and events (first NE events ever!) to switch to non-aligned ideology. Only integrated by referendum for now (not civil war). This means you'll only be able to change via either referendum, or elections if your country has them at the start. Most of the decisions were inspired by the political decisions to switch to the other ideologies, but there's also a fun new and unique one to speed up the switch (as "Traditionalist Ethos" is rather slow at changing poltics by itself, and very few nations actually have a poltical advisor for non-aligned ideology).
+
+[*]Added new way to unlock your cores/claims/etc. through a traditionalist focus; "Our Ancestral Lands".
+
+[*]Added cores on new states in China for both Mongolia and Mengkukuo, for all three paths. Also upgraded Mengkukuo's unlockable claims to cores. They have it hard enough.
+
+[*]Many new ideas for the "traditionalist" focus branch.
+
+[*]Reshuffled the poltical tree to make room for the new branch, and also made it look nicer. Also enabled the traditionalists to jump around a little in the poltical tree, for increased choice and variation. Think things through before you choose if you make said jump or not.
+
+[*]Added "Finnish Land Reintegration" decisions for Finland (Onega and Olonets), and also for Russia/the Soviet Union for the same states. That is they can integrate them back should they somehow lose them to Finland. I'm quite proud of those decisions actually. Now they can go back and forth (changing names and all) as many times as it takes to settle things down. Though likely 0 or 1 times. Oh well, it's there for those fringe cases :S
+
+[*]Integrated my recently created mod, "Meddle No More!" into this mod too. The files are exactly the same here, so they should overwrite while loading so the decisions only show up once even if you use both. Also added "Meddle No More!" as a dependency of NE to ensure one is loaded before the other. The functionality allows you to remove foreign influences, which can be especially important if you want to switch to the non-aligned ideology as a generic tree user.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Nerfed "Rocket Effort" back to vanilla/base game values (50% ahead of time, and no 50% research bonus). Combined with "Modern Aviation", the generic focus tree had three 100% ahead reduction/50% research speed bonuses for jet research (some useable on rockets too), which was indeed a tad excessive. Credits here goes to [i]Fedas[/i] for noticing this, and informing me.
+
+[*]"Advanced Production Methods" now takes 105 days to complete instead of 140 days. It was a tad time-consuming for its effects.
+
+[*]Nerfed the unlockable NE idea "Wartime R&D" from 3% research speed to 2.5% research speed. I do not want research to be excessive for minor nations. But you'll probably see that for yourselves if you go for the traditional path. Those sweet bonuses come at a cost.
+
+[*]Fixed checks in Bulgaria's "Anti-Yugoslav Propaganda" decisions (which removes Yugoslavia's claims). Now the requirements make more sense, and accurately target Yugoslavia for its check, instead of "any nation that is not Yugoslavia". Whoops indeed.
+
+[*]Added tighter and better looking coding for the unlockable cores/claims/etc. in the generic focus tree. This saved several hundreds of lines of coding. Of course adding those to the "traditionalist" path readded maybe equally as many lines.
+
+[*]Removed the 0.10 political power per day from "Why We Fight", cut the political power gain from "Nationalism" and "Internationalism" in half (now 0.25 per day), but also reduced the political power cost of "Leadership Initiatives" to only 0.20 per day. The political power balance of the different ideologies should now be a bit more balanced.
+
+[*]Production Efficiency Cap bonus on the "Liberty Ethos"-idea has been changed to Production Efficiency Growth instead. The "Traditionalist Ethos" also received the Production Efficiency Growth bonus. I found it a tad weird to be able to go over 100% efficiency cap.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added localisation to all the new stuff.
+
+[*]Created some clever (or so I think) country checking localisation for some of the new ideas in the "traditionalist" path/branch.
+
+[*]Not in game/mod: Updated mod description significantly this time.[/list]
+
+

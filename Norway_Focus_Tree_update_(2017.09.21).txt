@@ -1,0 +1,37 @@
+21.09.2017
+Massive localisation, visual and functional update compatible with 1.4.2, update by Khanor.
+
+
+Some of the content's of this update listed below:
+
+- Many updates to localisations, improved on language and added many historical tidbits and translations to focuses so the non-Norwegian user can have more enjoyment from the flavor texts.
+
+- Formatting of focuses and ideas, should make maintainance of the mod easier
+
+- Shifted focus paths around to make the focus tree more open with more choices, and some come in different orders due to historical reasons or gameplay reasons.
+
+- Added more political focuses to give players more fun choices. Also added extra paths some places. Also the communist path now has an aggressive focus.
+
+- Improved on when focuses cancel and when they continue. All construction focuses will cancel if you lose control of a state so you don't waste your focuses which grant building slots and factories. Conversely the political focuses which required so and so world tension won't cancel if they dip below the threshold the month after you started them now, which was super annoying. Now they'll continue even if you temporarily lose the requirements.
+
+- Two of the fortification focuses have been combined into one to make it more appealing, as has the landing craft and marine focuses.
+
+- Removed paratrooper focus since Norway didn't really use paratroopers in the time period.
+
+- Many unlockable ideas/national spirits now combine so the interface should clutter a lot less in the mid to late game.
+
+- Added more different focus and national spirit icon so the focus tree and nation interface should be a lot nicer to look at and more interesting now.
+
+- Tweaked commander traits and levels. Average level down a bit, but Fleischer is now a field marshal with fast planner and offensive doctrine, signalling that he was the supreme commander of the Norwegian forces following the historical German invasion of Norway, and the fact that in cooperation with allied forces his troops reconquered Narvik, which marked Hitler's first defeat during the Second World War.
+The other commanders have also received traits, notably Elias Corneliussen has gotten the blockade runner trait, meant to represent his organizational talent by being able to pull out several ships at once (though I guess the superior tactician trait could have also worked).
+
+-Rebalanced ideas, some production nerfs in total, and nuclear reactor construction time nerfs, but political power gain buffs and research buffs in total. Also 1-2% more manpower unlocked than before depending if you go communist or not. The starting policy of disarmament idea now give a slight consumer goods buff, but it's still far from worth it. Also added temporary "State Investment" ideas which for a short while will take some extra consumer goods after certain focuses which require your resources.
+
+- And more...
+
+
+Also lastly, maybe I should tell you a bit about how I got into this mod. Having playtested Perhj's Norway mod, I quickly came to believe it had the groundworks and potential to be one of the best focus tree mods out there, so I offered my help on localisation. Then I went into a crazy three day modding frenzy and did a bunch of other stuff as well, and this update is the result of that work. I enjoy feedback when working on mods, so please tell us about stuff you think we could do better, but also stuff you think we did well. Enjoy the mod everyone!
+
+[i]Khanor[/i]
+
+

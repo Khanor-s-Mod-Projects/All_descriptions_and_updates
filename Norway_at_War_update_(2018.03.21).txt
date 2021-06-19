@@ -1,0 +1,65 @@
+21.03.2018
+Version 1.2.1 - Medium content and compatibility update for patch 1.5.1 (was playable before, but now I've implemented Paradox' improvements in 1.5.1 in the few files that are still not standalone for this mod)
+
+
+
+[b]Content[/b]
+
+[list]
+[*]Added three new focuses and seven new events to go with them. Localisation, tooltips and functionality to make them fully useable have all been added.
+
+[*]Put in some functionality to the "The British Empire" focus in the European part of the Monarchist branch. Also modified the requirements just a bit.
+
+[*]Added new focus icons for several focuses. One more from the Kaiserreich team (Orkney and Shetland icon, which the mod description has been updated for), and several more which Paradox added in 1.5.0 and 1.5.1. Examples include "Modern Escort Ships", "Capital Ships" and "Seek American Military Support".
+
+[*]A mutual opinion modifier has been added to the "Join the Allies" focus. In addition, siding with Britan like this makes them bypass the "Scandinavian Intervention" and "Norwegian Intervention" focuses (without the effects), as they now believe you'll join their side in the conflict.
+
+[*]The "Finish the Nordland Line" focus now has a bypass if your infrastructure is sufficient in the affected states already.
+
+[*]Added new functionality to the "Preliminary Loyalist Armament Industry" decision in preparation for the Monarchist civil war. It now highlights the states affected, and it utilizes a couple of civilian factories for a while to represent the construction. Afterwards, you get the factories, as well as a temporary idea boosting your factory output at the cost of utilizing more consumer goods. The "State Armament Investments" idea has been changed to represent its new function representing the set up of new production lines, rather than constructing the factories (localization included).[/list]
+
+
+
+[b]Localisation[/b]
+
+[list]
+[*]Added a pretty extensive leader description to Haakon VII (as an actual leader, a description which is much more extensive than the popular figurehead idea/national spirit). To get him, go down the Monarchist path and make the Monarchy at least a bit more absolute to get him as an actual leader.
+
+[*]Made Johan Ludwig Mowinckel's leader description a lot more extensive and descriptive.
+
+[*]Shortened certain event option texts that were too long to fit inside the buttons.
+
+[*]General improvements on event texts and otherwise.
+
+[*]Added heavy fighter tech bonus references to several event options for those without the TfV expansion (those players get tech bonuses instead of tech sharing groups). Now if only I'd bother finding some translators for this mod...[/list]
+
+
+
+[b]Balance and fixes[/b]
+
+[list]
+[*]Updated the mod for 1.5.1, implementing changes such as the unique color for the Japanese cosmetic tag (Showa restoration).
+
+[*]Made a unique technology sharing file instead of adding mod funtionality into the base tech sharing file. This should make future updates easier to implement and general compatibility better.
+
+[*]Also made the requirements to be in (or stay in) the Nordic technology sharing group a bit more leninent in case the faction breaks or some other weird stuff happens.
+
+[*]Rebalanced the Norwegian land commanders again. I realized that they're supposed to get three skill points per level above 1, and as such I've modified this to fit with the new customs in the base game. Some commanders have gone up in their general level so I could represent them as I saw fit. More rebalancing may come later, as I didn't have time to put too extensive research into this yet.
+
+[*]Fixed descriptions inside the event file (and other files) to make future modding life more comfy for myself. Also corrected some factual errors in my modding notes (telling me an event was incorrectly only shown to this and this nation, etc.)
+
+[*]Removed some redundant localisation that lingered from something it turned out I didn't need after all.
+
+[*]Fixed certain errors in the Dano-Norwegian deal event chain. Especially the most extreme and rare outcome of Denmark declaring war on Norway posed some trouble to me. Also made sure to add functionality to remove Denmark from the Nordic faction in the case of this happening.
+
+[*]Fixed a country flag issue, with two events, a focus and a decision checking for a non-existant flag. Now they check for the intended country flag.
+
+[*]Fixed the "Demand the Northern Islands" focus to affect Shetland and Orkney (added in update 1.2.0 of this mod), instead of the Scottish Highlands. Now the subsequent "Demand Scottish Land" gives you a claim on the Scottish Highlands in addition to the other parts of Scotland instead.
+
+[*]Switched certain focuses to check for, or add stuff for, "ROOT" instead of "NOR", thus making the focuses usable in the unlikely event of a temporary tag (D01, D02, ..., Dxx) taking over Norway and the focus tree after a civil war.
+
+[*]Once and for all removed the Finnish history file from the mod (it unintentionally lingered in the mod due to copy-pasting over the old version at one point), as it was more trouble than it was worth, and I didn't feel like balancing my added Mannerheim to the new changes to land commanders, especially when there are really good Finland mods out there. The mod should now be more compatible with other mods, especially Finland mods. The Finnish idea file and changes to three Finnish states still linger though.
+
+[*]Put the Haakon VII idea icon into the same folder as all the other idea icons for simplicity, and changed the interface file to lead it to the new location.[/list]
+
+

@@ -1,0 +1,104 @@
+20.03.2019
+Version 1.3.3 - Large MtG-compatibility, streamlining, content and historical accuracy update (1.6.* MtG compatible)
+
+[b]Important notes and other[/b]
+[list]
+[*]Absolutely not savegame compatible with saves from earlier versions of NaW, so new games are adviced.
+
+[*]Updated mod description.[/list]
+
+
+
+[b]Content[/b]
+[list]
+[*]Updated for MtG/Ironclad, with scripting edited to account for and/or add changes for MtG and version 1.6.0 and 1.6.1.
+
+[*]MtG/Ironclad-style research speed bonuses.
+
+[*]Updated naval traits for ideas/designers to fit MtG's new modifiers for ships.
+
+[*]Added alternative OOB files for destroyer procurements relevant if you have MtG. The decision to procure these now chooses which to load by checking for enabled MtG DLC.
+
+[*]Johan Nygaardsvold's starting trait (and potential upgraded trait), somewhat nerfed initially, now giving surrender limit +5% instead of war support +5%, which didn't make too much sense. Surrender limit is purely defensive though, so that felt quite a bit more fitting.
+
+[*]Added a new state, and updated the buildings, airports and rocketsites files to account for changes in 1.6.0, and then changes in 1.6.1.
+
+[*]Also made sure to place fuel silos for all the previously added states, and edited the one in the Norrland state to account for parts being split of to make Jamtland.
+
+[*]Updated state numbers to account for the states added by Paradox.
+
+[*]Added [i]Njawl[/i]'s suggestions on historical naval forts/anti-air around Oslo.
+
+[*]Completely revamped the Easter egg tag, with an entirely new tag and partially a new name. All relavent files updated to account for the new tag.
+
+[*]Split the "Allies path" a little, so that the tech sharing focuses are not necessary in order to delegate control of the Norwegian merchant fleet.
+
+[*]Gave certain focuses new IDs, since the mod update would be save game incompatible anyways, now was the time to do it.
+
+[*]Also gave every single NaW event a new ID to fit my naming scheme, and lessen the risk of incompatibilites with other mods with edits to Norway, or events for them. Now events use the naw_norway ID rather than the previous norway_mod ID.
+
+[*]Also created a new news event file, for now only filled with the newly added city capture news events I added for Norway (similar city capture events for majors in the base game), while previous ones still use the naw_norway IDs.
+
+[*]Revamped the "Aftermath of the Great Depression" to be a multi level debuff removed in stages, similiar to some of the debuffs the Netherlands starts with in MtG. Now you're free to remove it in your own way, with many focuses improving the situation separately. However, the debuff is now slightly more impactful than before initially.
+
+[*]Added 1.6.* MtG starting production, and enabled the MtG starting techs and ship designs for Norway.
+
+[*]1939 starting tech changes for Norway, now has started the "Operational Integrity" air doctrine instead of the "Strategic Destruction" air doctrine, which makes a lot of sense.
+
+[*]Nortraship now available even without having expanded the shipbuilding or encouraged fishing. To preserve a functional and good looking naval branch, other focuses have moved a little bit coordinate wise, and the second level naval industry national spirit has been moved down to what is now called "Nortraship Production Incentives". Thanks to [i]Njawl[/i] who suggested this.
+
+[*]Added a portrait for Birger Eriksen.
+
+[*]Redacted compensation skills for Ruge, Laake and Fleischer, to make up for starting personality traits not having skills added like intended in previous versions. Since PDX fixed this, they are down to base game skills, and their traits now bring them up to the intended level from there.
+
+[*]Otto Ruge now also starts with the "Organizer"-trait, giving him better planning speed. Thanks again to [i]Njawl[/i] for giving me the idea to do this.
+
+[*]Did my research and added some very fitting personality traits to Norway's four starting admirals. Skills were looked at again too.
+
+[*]Båhuslen's reintegration event now gives one extra choice for naming the state.
+
+[*]"Grønnland" --> "Grønland" in the reintgration decision and event now spelled like the Norwegians of the time would have likely named it (and also, it was already the Danish name of the island), with the samnorsk debate etc.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Switched the English localisation towards American English, rather than British English (or likely in this case, some indecisive hybrid), to stay in line with HoI IV itself. Mainly neighbours --> neighbors, and defence --> defense for now.
+
+[*]Added new focus tooltips, and improved readability of some others. Dark blue no longer used in those.
+
+[*]Added new localisation for the new stuff.
+
+[*]Improved previous localisation.
+
+[*]Updated the French localisation a little as not to fall behind on it with the new stuff added, but not much more.
+
+[*]Finalized the job I started many updates ago, with giving fitting localisation compatible tech bonus references to every technology bonus in the mod (rather than just filling in a name directly in the focus file, etc.), focus, event or otherwise. Where I couldn't find this from the base game or DLCs, I made some unique ones for this mod.
+
+[*]Notraship Production Deal --> Nortraship Production Incentives, with the new name more accurately portraying what the focus was intended to be. Description also altered.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated the Glomma-Halden line to actually line up with Glomma, like intended.
+
+[*]Somewhat increased the cost of the defense line decisions as well, now they cost one more civilian factory for the duration, each.
+
+[*]Henry Diesen and Edgar Otto now swapped for naval chief effects, to better fit their personality traits and their priorities of naval warfare. AI chance to pick each also swapped, to make the AI choose a naval advisor useful for the usual AI navies.
+
+[*]Smarter AI for "The Moscow Trials"-event. Now the AI better considers their ideology, focus choices and strategic situation.
+
+[*]Cut some redundant state files that were no longer edited, especially now that Paradox added more victory points/cities to Norway.
+
+[*]Combined tech bonus references to categories (many added for MtG, which I made use of) rather than just a list of technologies, which should make things look nicer, clearer and simpler, while providing the same effects. Example: Instead of tech bonuses for excavation I, II, etc., it's now just a tech bonus for excavation techs.
+
+[*]Updated old national spirit icons for some lesser seen national spirits to something more fitting.
+
+[*]The "Norsk Hydro" focus now gives one electronics research bonus and one synthetic resources research bonus, rather than two electronics bonuses to represent Hydro's diverse business activities.
+
+[*]Nerfed the "Dano-Norwegian Deal" just a bit, to make it a bit more realistic. The deal now no longer includes Greenland (player Denmark would still have the choice to hand over even that, but it's no longer expected), only Iceland and the Faroes will be gained under the standard acceptance and normal circumstances. The philosophy behind gains from democratic routes is that democracy is about compromise (so you can gain some historical territories back, but likely not all of them).
+
+[*]Doubled starting equipment percentage for Norway's army, but lowered initial experience, which fits with the weapons stored up and the lowered training hours of the time. Thanks to [i]Njawl[/i] for doing research on this.[/list]
+
+

@@ -1,0 +1,102 @@
+01.06.2020
+Version 1.3.0 "Expeditionary Forces", La Résistance/Husky update, map, content, balancing and streamlining changes (1.9.* Husky compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Combined the map changes from recent TGW with old BA changes for the best of both worlds.
+
+[*]Cut redundant files from the mod, while adding as few as possible, resulting in a more streamlined mod with 16 fewer files to worry about.
+
+[*]Deleted all old history files for unit history/OoB for every nation except Bulgaria to make room for new TGW changes that are almost as good, equal or better than my old ones. The Bulgarian unit history files have been merged, expanded on and has gotten the 1919 bookmark added instead.
+
+[*]Bulgarian ship OoB/history files merged into the general unit files.
+
+[*]Improved the British Recruitment Drive idea, and added a starting idea that's later replaced through the old event. Now the UK starts with the Empire Expeditionary Force idea limiting their Army size and other things, but improving its performance a bit instead.
+
+[*]Updated general functionality files such as focuses for any changes made by TGW.
+
+[*]Added new Bulgarian decision, taking some functionality out of an event to give players more control and overview instead. Also solves problems of the player missing out on this due to no separate peace with the Ottomans in the Second Balkan War.
+
+[*]Improved the formatting of, and went through, nearly every single file in the mod to prepare it for changes made in the base game and TGW.
+
+[*]Updated the bookmark files with the new starting idea for the UK.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Improved upon old BA and TGW localisations, merged them into new files.
+
+[*]Added localisation for all new stuff.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Rebalanced some different combat bonus ideas and other ideas for Balkan nations, France and the UK.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+04.06.2020
+Version 1.3.0a "Expeditionary Forces", Fixing, rebalancing and polishing update (1.9.* Husky compatible)
+
+[b]Localisation[/b]
+[list]
+[*]Deleted some unused localisations.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated portrait graphics links in the Bulgarian history file to fix broken portraits.
+
+[*]Removed redundant information from the Bulgarian history file.
+
+[*]Reworked the history files of Bulgaria, Greece, Serbia, the Ottomans and the UK to ensure all of them had relevant ideas unlocked at later bookmarks too.
+
+[*]Added the TGW changes for the correct rank of Mustafa Kemal at the earliest bookmark.
+
+[*]Added a civilian factory and two naval dockyards to the Austro-Hungarian state of Istrien/Istria.
+
+[*]Updated the Bulgarian focus tree by adding mutual relations gain to a new focus.
+
+[*]Found a (stupid) workaround for the broken interface of the Balkan Infamy (decision category) display, which works well enough for now.
+
+[*]Made changes to the on_actions-file and the story events to fix and better handle initial city renaming and diplomatic updates for the start of the game.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+15.08.2020
+Version 1.3.1 "Expeditionary Forces",  general improvement and small content update (1.9.* Husky compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Added event to somewhat amend Bulgaro-Turkish relations after the Balkan Wars when they're in the same faction/alliance.
+
+[*]Added checks for Spain in the Central Powers to get the choice to do the scripted treaty peace as well, with priority if player like the currently checked for countries. They are lower priority than the historical four and Italy currently.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Fixed erroneous state names in Africa after the La Résistance update and the subsequent TGW update.
+
+[*]Added localisation to the new events added.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Did general updates and improvements to the Russian event file, hopefully fixing some of the previous issues with the Revolution's event chain. Also made my code/script changes smaller, more compact and easier to maintain. More will be coming if this didn't do the job.
+
+[*]Added event to Mongolia so that they can choose whether or not to join the White Movement, relevant if Mongolia is a player. AI Mongolia leans toward joining (Russian statesmen and military stationed there historically), especially in historical mode. Also added events to Imperial/White Russia get informed of the outcome.[/list]
+
+

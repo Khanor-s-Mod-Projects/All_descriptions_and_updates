@@ -1,0 +1,89 @@
+10.03.2018
+Version 1.2.0 - Large content update, and compatibility for "Waking the Tiger" DLC and Cornflakes patch
+
+
+
+[b]Content[/b]
+
+[list]
+[*]Reshuffled political tree.
+
+[*]Added a large Monarchist branch to the political tree.
+
+[*]New ideas have been created to go with the Monarchist branch.
+
+[*]Switched icons for some ideas and focuses to make them look better and more varied.
+
+[*]Added a new focus for the Allies path. Full functionality with related ideas not yet implemented.
+
+[*]Updated old code to "Waking the Tiger" standard. Added war support and stability effects where fitting (also command power, though that is much rarer).
+
+[*]Updated all commanders for the update. Added fitting personality traits and skill levels. My opinion is that with the new tools and split skills it was much easier to give the player a taste of the in-game commanders' real equivalents. Personality traits have been utilized heavily. As generals now keep their skills when being promoted, I felt comfortable making Carl Gustav Fleischer a general instead of a field marshal. You can promote him to high(er) command later for that historical accuracy.
+
+[*]Implemented base files for decisions. Added decisions for monarchist civil war (I highly recommend the one which lets you keep ALL your commanders, industry decision being a close second, for reasons you may all find scary) when you have the staunch monarchist. Speaking of...
+
+[*]Added Fredrik Wedel Jarlsberg as a pro-monarchy advisor.
+
+[*]Added some very fancy unit spawning for the Norwegian Monarchist Civil War. Both sides will get temporary locked template units helping them out, with custom names for the occasion! It's inspired by Paradox' new German Civil War, but the question is, did I balance the civil war like them? Find out for yourselves if you dare...
+
+[*]Updated old states and their references to new numbers to account for new states added in WtT. Added Shetland and Orkney states and land integration events for them. Also implemented Paradox' resource changes in old states that I had modified.
+
+[*]Added Stavanger and Tromsø as new cities in Western and Northern Norway.
+
+[*]Four new focus icons and a portrait of King Haakon VII with credits to the Kaiserreich team.
+
+[*]Improved formatting of certain earlier graphical assets. A couple of commanders, the King Haakon idea portrait, and the Hydro logo are now of a higher resolution. As such the pictures are crisper, though the mod is now 1 mb larger than before (partially because of the increased image quality).
+
+[*]Improved readability in files, as such the mod will be easier to maintain. Also removed Finnish country file to increase compatibility. Finnish idea file changes are still in though.
+
+[*]Added many new events, mainly relating to the new monarchist path, but also some like giving Denmark some choices in the Dano-Norwegian deal, with an event chain of 8 events for different outcomes there. Also added information event for the Fennoscandian deal (with war support effects for the dealbrokers and the neighbouring Soviets), and added tooltips to both deals in the focus tree.
+
+[*]Improved checks for when the focuses are available to pick, and when the AI picks them. Historical focus weights have been improved, with AI Norway always going "Affirm Constitutional Monarchy" (democratic path) in historical games, and most of the time even without.
+
+[*]Modified starting base stability in the Norwegian country file to account for the "Haakon VII" national spirit.
+
+[*]Added a trait to Johan Ludwig Mowinckel (leader of Venstre), and added three traits to Haakon VII as leader (as well as the possibility to make him leader in the monarchist path).
+
+[*]Added a unique cosmetic tag which can be choosen in an event from the new monarchist path.
+
+[*]Added two unique news event pictures and two unique standard event pictures.
+
+[*]Added three unique flags, including the quite requested NS party flag. Good thing I'm becoming better at cropping and editing images.
+
+[*]Switched the "Telemark Bataljon" focus and template to something much more appropriate for the period. Now you can merge the ranger/jäger battalions of Norway, "1. Jegerbataljon", "2. Jegerbataljon", and "3. Jegerbataljon", into a new elite division, which comes with a new elite 7/2 mountaineer template.[/list]
+
+
+
+[b]Localisation[/b]
+
+[list]
+[*]Added WORK IN PROGRESS tooltip for focuses that are not recommended to pick yet.
+
+[*]Added many new tooltips with fancy colors to many focuses, and some decisions.
+
+[*]Custom decision texts for unique Norwegian decisions (though not yet refined and perfected text).
+
+[*]Improved on Paradox' naming in Norwegian unit lists.
+
+[*]Added cosmetic name for an Icelandic subject state of Monarchist Norway.
+
+[*]Attempted to add Icelandic fleet numbering (like for Norway).
+
+[*]The Norwegian Monarchist special cosmetic tags has had unique names added for all ideologies (though I absolutely recommend staying non-aligned as that goes with the focus branch).
+
+[*]Improved naming and decriptions on several focuses, "Affirm Constitutional Monarchy" and "Reject Constitutional Monarchy" being examples of this.
+
+[*]Switched names of carrier classes from whales to Norwegian counties. While the whale names have been removed from the classes, they can still appear as names of individual carriers alongside county names. In addition I added more possible names based on counties to the carrier naming pool.[/list]
+
+
+
+[b]Balance and fixes[/b]
+
+[list]
+[*]Rebalanced the "Heimevernet" idea to be more defensively oriented. Now it and its constituent ideas have been changed. "Heimevernet" gets 1,5% LESS recruitable population than before, but it gets +5% attack on core territory and +25% cold acclimatization to somewhat make up for it.
+
+[*]The "Partisan Leader" trait (for Gunnar Sønsteby) now gets +5% defence on core territory in addition to previous effects.
+
+[*]Added support for the election change event of '38 to also affect a non-aligned/monarchist Norway if they have elections. Also removed the ideology popularity requirements (now just not be fascist or communist).
+
+[*]Implemented better controls on which ideas are kept by which side in the case of a civil war.[/list]

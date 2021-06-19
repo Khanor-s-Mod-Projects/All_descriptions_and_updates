@@ -1,0 +1,16 @@
+02.04.2019
+Version 1.0.4b, hotfix and localisation update (1.6.* MtG compatible)
+
+[b]Localisation[/b]
+[list]
+[*]Updated mainland Greece with what was Larissa or Karditsa in earlier updates being spread out to two adjacent provinces, so both could be added now. Larissa is now where the base game (HoI IV) places it, while Karditsa is more inland.
+
+[*]Renamed the two states both named "Aegean Islands". Now they're named "Cyclades" and "North Aegean".[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated outdated state references in event files, due to state numbers in TGW and BA being shuffled everytime vanilla states are integrated. The ones that were overlooked in the last update were mainly what is now called North Aegean (Islands) and Northern Epirus, but Pirot state (which is a BA creation) was also updated now.[/list]
+
+

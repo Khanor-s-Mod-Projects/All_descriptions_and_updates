@@ -1,0 +1,45 @@
+[h1]Meddle No More! (Removable foreign influences)
+A simple decision mod to retake control of your own politics[/h1]
+- Version 1.0.2 (1.9.* Husky compatible, but will likely be compatible with all future patches/DLCs too!)
+
+
+
+[b]Features[/b]
+[list]
+[*]A political decision to remove all generic foreign poltical influences on your country. Only shows up if you're affected by such influences.
+
+[*]A political decision to remove all the German political alignments. This one is slightly more expensive to take due to the power of the ideas, and the fact that they might have big gameplay effects.
+
+[*]A poltical decision to remove all the American political pressures in relation to the Monroe Doctrine and Pax Americana. This one is cheaper due to the influence being weaker, but much more widespread. Also requires quite high stability to simulate the fact that American influence at the time was not something easily shaken.
+
+[*]Decisions always enabled should you be under influence (one year cooldown), even if you're the same ideology, which is useful if you want to switch ideology yourself. On the other hand there's...
+
+[*]...Smart AI (having at least graduated Elementary School, I'd say). The AI will not pick the decisions should they be independent and of the same ideology. Why wouldn't a Government try to stay in power? And as of MNM 1.0.1 the AI also considers political focuses they've taken. Though AI France has been prevented from removing the "Communist Refugees" idea if they're independent, as that's important for gameplay reasons. If you puppet them and make them not be communist in the process they'll consider removing it however.
+
+[*]Gameplay balance. Decisions cost quite a bit of poltical power due to how useful they can be, and they will also give you a temporary debuff to stability. Additional costs are subtracted per idea removed, but you also gain some base stability per idea removed (it's however somewhat rare to have more than one foreign poltical influence on your country at once).
+
+[*]Some nice flavor text for y'all.[/list]
+
+
+
+[b]Q&A[/b]
+[list]
+[*]Multiplayer compatible?
+- Yes, but all players are going to need the mod.
+
+[*]Achievement compatible?
+- No, playing in ironman will not give you achievements due to gameplay being changed.
+
+[*]Compatibility?
+- Just about compatible with anything. I'd guess ~99% of all mods. All that's needed is that they have political power, generic political decisions and, optionally, some way of applying the ideas which to remove. This mod has also been integrated into my other mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=738238411]Nationalism Extended[/url]. And while using both is unnecessary, I've made it so it works equally fine and error free with either, or both, for your convenience.
+
+[*]Which languages are supported in the current version?
+- English
+- Spanish (thanks to [i]Sir. Paulord [HFGL][/i])
+- No support for the other languages yet (though the mod can of course still be played in those languages, it just won't look/read as nicely). Feel free to volunteer to translate, though! Credits will of course be given, and it should take at most an hour (maybe more if you're really, really thorough) due to the small size and scope of the mod.[/list]
+
+
+
+Enjoy shaping your own poltics!
+
+[i]Khanor[/i]

@@ -1,0 +1,56 @@
+26.10.2019
+Version 1.2.0 "The Pioneers", Humongous Map, Flavor, Demographics and AI update (1.7.* Hydra compatible)
+
+(Make no mistake, this update is probably way to large to fit in the change log, and I've not been caring too much about taking notes this time, as it's a lot of work, and this update was even more so. Thus, this changelog might come piecemeal when I remember stuff, and probably will be more in general terms than in details!)
+
+[b]Features/Content[/b]
+[list]
+[*]Implemented historical May (!) 1910 populations for Bosnia, Montenegro, Serbia, Greece, Crete, Cyprus, the Ottomans in Europe (from Albania to Constantinople, Austro-Hungarian border to the Aegean Islands), Bulgaria and Romania. These are very accurate overall for macro regions and certain specific areas (e.g. Northern Dobrudja, Southern Dobrudja, the whole of Bulgaria, Ottomans in Europe as a whole, Crete, etc.), but as for certain singular states on land (the Macedonian states, and similar) they may be more of an approximation. Still, overall I'm very happy about it, and immersion should be a lot better now. Also, you guys get historical May 1910 population for (German) Samoa as a bonus. That one just got thrown in there randomly since I stumbled across the statistics.
+
+[*]Moved one province from Kavala to Central Macedonia (Thessaloniki), and reshaped their borders a bit. Northern Macedonia, Štip and Southern Macedonia were also reshaped a bit, and of course buildings have been rejigged to be nicely placed in all five of these states as I was already working on them. This should allow more historical borders for in between the Balkan Wars, and if Bulgaria should somehow manage to win the second one, get a somewhat less greedy victory, more in line with the Treaty of San Stefano than just the old, somewhat random state borders.
+
+[*]Added a new idea/event chain to purchase pioneer era Farman III airplanes from France. This adds flavor to all the Balkan countries that can do this (BUL, TUR, GRE, MTN, SER), as well as France. Ideas, localisation and a new historical event picture have been added, and France's scout planes have been rejigged to these rather than the later planes they had earlier. All the relevant Balkan countries now have localisation (name and description) for both the starting scout plane and the first fighter sub-technology.
+
+[*]Added new starting Army Staff ideas for both the Bulgarian Kingdom and the Ottoman Empire, somewhat inspired by the German one. These have unique idea pictures and localisation, and they've been added to the relevant history, interface and bookmark files.
+
+[*]Added new AI template strategies, so the AI countries should put up more of a fight. Those without a strong industry for it should go more heavy on infantry, and save the production costs of armored cars, artillery and stuff to some extent. Of course they still go with support artillery for their infantry, and with enough industry surplus occasionally some line artillery too. AI usage of field hospitals should also go up a bit, while anti-tank should go down a bit.
+
+[*]Added the historical leader of the Bulgarian Democratic party at the time, leader with portrait, correct ideology and an appropriate trait from the base game. Also added the Democratic Party itself.
+
+[*]One Ottoman city added to Anatolia, three cities/towns to the Ottoman Balkans, one to Bulgaria, one to Italy, one to Bosnia and oodles of cities/towns to the rest of Austria-Hungary, especially to Cisleithania this time.
+
+[*]Tweaked many Austro-Hungarian existing VP values upwards to represent the relative size and importance of the cities/towns at the time.
+
+[*]Added a post Balkan War aviation news event (with a newly added picture) to Bulgaria, the Ottomans and Greece, with some free air experience, historical aces/air pioneers, and some air innovation ideas. The aerial battlefield was the one this mod hadn't addressed before, so I was happy to get it done.
+
+[*]Added Air Aces to Bulgaria, the Ottomans and Greece. All of them are pretty good, representing historical figures, and are either for CAS-planes or fighter-planes (which are the early planes you can build).
+
+[*]Filled the Bulgarian Air Branch with more content and descriptions.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Renamed almost all remaining Austro-Hungarian states to era appropriate names. Though I had to get inventive with the hard ones such as what was later called Sudetenland, which was part of several historical regions at the time.
+
+[*]Added city localisation.
+
+[*]Added names and descriptions to all new ideas and events.
+
+[*]Tweaked the localisation for the Italian national spirit/idea for the invasion of Ottoman Tripolitania to represent the fact that it wasn't named Libya at the time.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Buffed the recruitable population of all Balkan Military ideas by +1% to make up for the significantly smaller, but accurate, new population counts somewhat. Some of Bulgaria's previous modifiers here have been moved to their new Army Staff idea, while the remainder was buffed a bit, as it was a bit underwhelming according to their historical performance.
+
+[*]Beefed up the Bulgarian, Ottoman and Greek starting armies and templates just a tad. Added new unused (at the start) cavalry division template for Bulgaria.
+
+[*]The AI to some extent actually researches useful stuff other than doctrines now. I'm not sure exactly how I happened upon this fix, but I'll do further research. AI countries will now research a tad relevant industry and the likes alongside their doctrines now, instead of only ahead of time naval modules and hulls. Not bad. Not good either, but it's a definite improvement.
+
+[*]Tweaked the German Staff idea further. Now affects the rate of leader experience gain instead of starting planning level, division speed is down, and the recruitable pop have been a bit further reduced, while being compensated with more planning speed and max planning.
+
+[*]Tried to further improve the Italian AI with regards to the Italo-Turkish war, steering them in more historical directions.[/list]
+
+

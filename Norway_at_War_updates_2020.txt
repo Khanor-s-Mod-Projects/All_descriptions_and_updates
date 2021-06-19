@@ -1,0 +1,170 @@
+28.02.2020
+Version 1.3.5 - Decently sized Husky update and content additions (1.9.* Husky compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated buildings, airfields and rocketsites map files, supply regions, state history files, bookmarks, country colors, cosmetic tags and country idea files for 1.9.* Husky.
+
+[*]Brought the new army ledger tags to Norwegian advisors, military staff, and theorists, and updated all remaining research speed bonuses from theorists and designers up to the current Paradox standards.
+
+[*]Added new Husky filter functions to all relevant Norwegian focuses, including one new special filter for the Norwegian focus tree.
+
+[*]Finished basic functionality for the Baltic Anti-Communist League sub-branch of the monarchist political focus branch.
+
+[*]Added three new focuses, one new (timed) idea, and three new events for said focus branch.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added the historical long name for the Norwegian Labor Party of the period, and also made the short form fit the name of the period.
+
+[*]Added punctuation to all the event answers that lacked it.
+
+[*]New localisation for the new focus filter, new focuses, new idea and new events added.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed a few scope issues in the basic event file for NaW.
+
+[*]Old partisan modifier used in the mod exchanged for the new Husky/La Résistance compliance/resistance growth modifiers in a few relevant places.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+29.02.2020
+Version 1.3.5a - Small portrait hotfixes, rebalancing and QoL update (1.9.* Husky compatible)
+
+[b]Content[/b]
+[list]
+[*]Added manpower search filters for two more focuses that should have them.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Small spelling/grammar improvement for one of the new focus descriptions.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed previous .tga portraits not showing up in the general list. Now all .tga files have been saved as .dds files in the correct format, and the monarchist events that give you King Haakon VII as the country leader now specifies .dds rather than .tga like before.
+
+[*]Monthly population growth on the "District Investments" idea has been nerfed from a significant 15% down to a modest 5%, as Norway has other strong bonuses anyways, and I didn't want to overdo things.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+30.10.2020
+Version 1.3.6 - Collie update, fixes to old issues and small features (1.10.* Collie compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated buildings, airfields and rocketsites map files, supply regions, state history files, bookmarks, decision files, etc. for 1.10.* Collie.
+
+[*]Updated older outdated decisions for integrating land which erroneously had outdated state targeting even before the Collie update came. These should now work properly again unlike the last few versions.
+
+[*]Added new decisions for the United Kingdom and Germany to block and reallow Norwegian naval procurements, when relevant.
+
+[*]The starting idea "Lasting Policy of Disarmament" now has a broken gun as the idea picture in a nod to what was and is aptly named the "Broken Gun"-policy.
+
+[*]The mod descriptor-files now contain a version number for this mod.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Localisation for the new decisions.
+
+[*]Updated state references with respect to new state numbers for added states.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed the old, broken "destroyer procurement" decisions and OOB in the history folder. They now actually work, though there are still some ship naming issues with the MtG-DLC. These are small issues compared to the prior ones where they didn't work at all though.
+
+[*]Merged the "destroyer procurement" OOB-files together and renamed them, now making the functionality more streamlined and readable.
+
+[*]Added some basic starting naval technologies to Iceland, roughly based on what Norway has minus the submarine stuff. Iceland also gets the Coastal Defense Ships with MtG now.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+30.10.2020
+Version 1.3.6a - Collie hotfix update (1.10.* Collie compatible)
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated the state references in the Norwegian focus file as well, which I'd somehow missed.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+05.11.2020
+Version 1.3.7 - Sizeable update, general improvements/fixes, R56 readiness, R56 features and new original content (1.10.* Collie compatible)
+
+[b]Content[/b]
+[list]
+[*]Added new generic 3D plane meshes with Norwegian roundels for Norway, thanks to [i]Thinking_waffle[/i].
+
+[*]New focus icons mainly thanks to the R56 team, and a little bit thanks to me.
+
+[*]Made use of some of Paradox' crisp new focus icons for certain focuses that could do with them. The Monarchist branch is now prettier than ever.
+
+[*]Motion of No Confidence now gives you an event and a choice for who should lead the Conservatives and be Prime Minister of Norway. This is an old request by [i]Nonjojålol/Njawl[/i], which have now been added for your enjoyment.
+
+[*]New possible country leader from event mentioned above.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Improved many localisation and focus IDs for easier management and future work for me and the R56 team. Some focuses that are completed may be lost if in a game. If so use the console command to finish "the new one" (should look and do the same for the most part) to solve.
+
+[*]Improved many old localisations, with fresher language. Example "Join the Allies" --> "Seek a British Alliance", "Lasting Policy of Disarmament" --> "Enduring Policy of Disarmament" and "Construct More Hydro Plants!" --> "Hydroelectric Power Generation".
+
+[*]Added more text to certain focuses that were shortchanged, mainly technology sharing focuses.
+
+[*]Localisation for all newly added features, including country leader.
+
+[*]Removed redundant linebreak at the start of some focus tooltip localisations regarding unlocking advisors.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Added R56 style naval gear bonuses (if using MtG) for where relevant. Currently on the submarine and capital ship focuses.
+
+[*]Added some naval experience to the naval branch where relevant.
+
+[*]Nerfed the consumer goods on the Naval Industry line a bit. Specialized Naval Industry now costs you a tiny bit of consumer goods rather than giving you more.
+
+[*]Added stability focus filter on focuses that lose you stability too, not just gain, as that effect on stability may also be interesting to know.
+
+[*]Bicycle Battalions are no longer limited by DLC.
+
+[*]The King's Choice decision now limited to him being the active ruler, not just the ruler of a party (alternatively having him as the idea/national spirit/figurehead still works too).
+
+[*]Moved the Norwegian Kingdom cosmetic tag to its own unique file, for added compatibility with other mods, and less work to update the mod in the future. It's also just cleaner to do it like that.
+
+[*]Smarter restrictions/availability checks for certain tech sharing focuses. Also smarter checks for the Icelandic-Faroese Revolt and other focuses. Much kudos to the R56 team, some to me.
+
+[*]Non-gameplay altering: Moved the search filters in the focus file to after the completion effects for easier file merging and exchange with R56 in the future.[/list]
+
+

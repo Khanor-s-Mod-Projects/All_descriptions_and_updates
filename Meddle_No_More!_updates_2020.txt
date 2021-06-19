@@ -1,0 +1,8 @@
+06.03.2020
+Version 1.0.2 - Husky update and small AI decision priority update (1.9.* Husky compatible)
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated for Husky/La Résistance. Now the MNM-decisions are updated for the new French focuses, with regards to AI priorities.[/list]
+
+

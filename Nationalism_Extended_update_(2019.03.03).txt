@@ -1,0 +1,75 @@
+03.03.2019
+Version 1.2.3 - MtG update, new features and streamlining (1.6.* MtG compatible)
+
+[b]Features[/b]
+[list]
+[*]Updated mod for MtG, ensuring Paradox' changes and improvements to the game files made it to NE's edited files. This includes all 50% research time reduction bonuses becoming 100% research speed, and all 75% reductions becoming 300% research speed increase. And as importantly, dynamic alliance finding.
+
+[*]Somewhat nerfed air and naval doctrine research bonuses in the generic focus tree to account for doctrines having a higher base cost now. It's still just a tad more generous than vanilla's generic focus tree, though.
+
+[*]Field hospital bonuses from the motorized infantry focus in the generic tree reduced to only one now, as it was too strong for a 35 day focus.
+
+[*]Improved core giving focuses (in the generic focus tree) for Greece a bit, with new starting situation with claim instead of core on Constantinople/Istanbul. Now removes claim and adds core on said state if the focuses are taken.
+
+[*]Simplified the script for the Habsburg path in the Hungarian focus tree, regarding the Bulgarian alignment focuses. They're now more readable.
+
+[*]Also conformed most core giving focuses in the Hungarian focus tree to one standard, except for the Reformation of the Austro-Hungarian Empire, which can deservedly stand out a bit.
+
+[*]Less doctrine research bonuses in the Hungarian focus tree, but slightly more generous armor research bonuses.
+
+[*]Very generous initial naval doctrine bonuses in the Hungarian focuses to let you catch up as Hungary if you can get a coast. "Restoration" super boosts your "Fleet in Being" doctrine for a short while, while "Reform" gives one more research bonus for your choice of the other two Naval doctrines, but not at the same speed, inferring that refreshing old knowledge is faster initially.
+
+[*]Hungary aligning with the Soviets can remove their claims on some of Hungary's would be core states. Also, in some cases where you have claims, the claims are removed when you get cores on them. Similar functionality has been added for overlapping claims between Germany and Italy in the Italian focus tree (Slovenia).
+
+[*]Improved wargoal generation for both the Hungarian and Italian focus trees. Now they will give you "Take Claimed State" wargoals or similar in many cases, if you have claims.
+
+[*]The Polish focus tree has also been updated for MtG, and now also gives one additional armor research bonus compared to the last version of Nationalism Extended.
+
+[*]Added additional claim on Memel and Ermland-Masuren for Poland if they take the focus "Go Left". If they take the focus "Go Right" they now additionally gain a claim on Zhytomyr.
+
+[*]Added Canadian land integration decision category and one decision (for Alaska), with localisation. "Land Integration" decisions as opposed to "Land Reintegration" decisions apply when states have not been held previously, but can still be justified to be integrated with cores. The only difference, apart from two letters, is the fact that "Land Integration" decisions additionally gives a temporary malus to stability while ongoing, in "Meddle No More!" style. The end results are the same.
+
+[*]Added additional land integration decisions for Lithuania, while updating the old one to accurately target Vilnius/Wilno.
+
+[*]Somewhat changed generic idea/national spirit pictures.
+
+[*]Added updated "Meddle No More!" decision file.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added localisation for new features.
+
+[*]Fixed a few previous mistakes/oversights in the localisation.
+
+[*]Also added field hospital technology bonus reference to the generic focus tree and the localisation file, enabling future compatibility with mod translations.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fix to the Irish land reintegration decision to rename Northern Ireland. It now sets the correct state flag to the state after this has been done (so the decision does not show up if it's already been renamed).
+
+[*]Modified the traditionalist path in the generic tree a bit. The latter focuses now have better availability checks and slightly improved AI priorities.
+
+[*]Renamed NE's opinion modifiers file to my new standards. Should have no gameplay impact whatsoever.[/list]
+
+
+
+[b]Other[/b]
+[list]
+[*]Updated the recommended mod collection slightly before MtG and the current NE version hit, with a new graphics mod now recommeded.
+
+[*]Slightly improved the mod description with regards to the current mod features.[/list]
+
+
+
+03.03.2019 (shortly after)
+Version 1.2.3a - Very hot hotfix update to fix broken/unoptimal generic/NE idea pictures (1.6.* MtG compatible)
+
+[b]Features and fixes[/b]
+[list]
+[*]Updated generic idea pictures/icons which weren't properly applied last NE update, and also improved further on the choices to make it look better than ever before (both "Waking the Tiger" icons and "Man the Guns" icons have been added). Also improved icon choice for one of NE's added ideas/national spirits, "Leadership Initiatives" which now utilize one of the nice "Waking the Tiger" icons.[/list]
+
+

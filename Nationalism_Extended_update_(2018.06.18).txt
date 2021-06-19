@@ -1,0 +1,8 @@
+18.06.2018
+Version 1.2.1b - Small compatibility update, for "Alt-History Toggle" (1.5.3 WtT compatible)
+
+[b]Other[/b]
+[list]
+[*]Added "Alt-History Toggle" as a dependency, so you can play both mods together. You'll get Alt-History Toggle's functionality, but you'll not have NE's version of the Hungarian, Polish and Yugoslavian focus tree. Still the idea buffs and the generic focus tree changes will stay, as well as the decisions.[/list]
+
+

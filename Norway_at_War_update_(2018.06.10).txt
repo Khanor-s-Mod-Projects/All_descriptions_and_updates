@@ -1,0 +1,69 @@
+10.06.2018
+Version 1.3.1 - Sizeable content and balance update (1.5.3 WtT compatible)
+
+[b]Content[/b]
+[list]
+[*]Added four new unique traits, and divided them among NaW's country leaders. Now all Norwegian starting (and unlockable) leaders have at least one trait, and mod unique ones at that. The traits include "Militia Proponent", "Propagandist", "Thrifty", and a fourth trait for a leader of an Easter Egg nation I won't spoil right now...
+
+[*]Added three new focuses, giving Norway more flexibility in its diplomacy. These include the historical "Armed Neutrality Once More" focus in the democratic tree, which enables you to try and stay neutral, but unlocks bail out decisions to petition major powers with factions for an alliance (at any World Tension) should this fail. The historical scenario of Germany attacking neutral Norway and bringing it into the Allies has now become very, very possible thanks to the feature that is decisions. Other than that there's "Saboteurs" which enables resistance gameplay (with more coming in future versions), and "Accept German Rule" for a Norway that's gone for the fascist path, yet drew German aggression. This allows them to bail out and become a German subject state for no further losses should Germany accept. Basically a beggar's version of "Join the Axis".
+
+[*]More decisions have yet again been added. As mentioned there are decisions to join other major powers (that have a faction) should a country attack a neutral Norway. There's resistance decisions for democratic Norway, and all iterations of Norway have received a NaW-version of the newly added "Land Reintegration"-decisions of my other mod, "Nationalism Extended". This allows you to gain cores on historical territories, and there's also further incorporation which adds some political power and renames states through the previous land reintegration events (so the flavor is still there). This has been added for all the previous historical islands of Norway (bar Vinland, obviously). Jamtland and Båhuslen are still integrated through the old "mean time to happen" events once you own and control the relevant states.
+
+[*]Added a new country unique tactic, "Disruptive Crossfire", with unique pixel "art" (editing/cropping/resizing/copy-pasting) by yours truly. Surprisingly, I think it looks quite nice. It's unlocked through the "Encourage Recreational Shooting" focus, and functions as a slightly improved "Delay" tactic (a tad more defender damage, and harder to counter, requiring the Grand Battleplan doctrine to do so).
+
+[*]Many new events!
+
+[*]Added finishing effects to previous "WORK IN PROGRESS"-marked focuses, such as for the focuses letting you side with the British Empire or the German Kaiserreich in the monarchist path. The previous "work in progress" tooltips have been removed, and the missing relation boosts for these focuses have been added. Also added sanity checks for not being at war with the relevant nations in these cases.
+
+[*]Added a new Easter Egg nation due Southwest of Norway, including unique flags, leaders, leader traits, ideas, localisation, etc.
+
+[*]Added decisions to create and expand said Easter Egg nation in the "Norwegian Land Reintegration" decision category.
+
+[*]"Notraship Escort Docks" now lose its additional reliability boost on top of the designer trait itself. "Marinens Hovedverft" also loses said reliability, but is now a mod unique "North Sea Fleet"-designer, with very nice bonuses to capital ships, and heavy cruisers in particular.
+
+[*]New flags added/old flags updated.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Improvements to tooltip spacing all across the board for the Norwegian focus tree. Also further improved word coloring and language of these tooltips. This should improve readability.
+
+[*]Started adding a French localisation. It's about 5% complete as of this update, but this being done with my high school French and online tools/resources, the quality as well as the timeline to finish the translation are both dubious at best. English is used for untranslated text, so you won't be stuck with nothing at least should you dare venture into the French localisation.
+
+[*]Generally improved writing and descriptions, especially for certain ideas and design companies.
+
+[*]"Frösön" (victory point) has been renamed to "Frösön/Östersund" to account for the newer, but much bigger settlement/city close by. Events renaming this also account for this, "Frøysøy" becoming "Frøysøy/Østersund" and "Freysey" becoming "Freysey/Austursund".
+
+[*]Victory point localisation has been moved into the main localisation file for increased compatibility, and easier maintenance. The same goes for most states. Added a "replace" folder (in the localisation folder) and two extra localisation files in said folder to fix the English localisation's erroneous spelling of "Østlandet" and "Trøndelag".
+
+[*]The Norwegian naval theorist "Skule Storheil" has been renamed to the correct spelling of "Skule Storheill" in the localisation, as was the idea itself. Lastly, his generic portrait was updated to one that fit his age and actual appearance a lot more (he was in his 30s, not his 50s/60s).
+
+[*]As always, added localisation for all new content.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]General nerf to contruction speed in unlockable ideas. "New Defence Budget" now no longer provides contruction speed increases to military factories and dockyards. The output bonuses have also been halved, down to 5% each. 10 max command power and 10% max planning is added to compensate (as money goes to the top brass and planners too). "Meager Defence Budget" is also a tad worse now.
+
+"Building the Kingdom" now only has half of the previous contruction and repair speed bonuses, from 10% each, down to 5% each. To make up for this a bit it now enables sending volunteers (and lowers tension and division numbers required to send them, enabling some limited intervention for Norway).
+The unique "Joint Defence" ideas for Norwegian allies in the democratic branch also lost some industrial bonuses, so Norway's allies won't be excessively buffed.
+
+Industrial buildup should now be a tad slower.
+
+[*]"Specialized Naval Industry" no longer loses 5% dockyard output, however, so dockyards stay the same (the Navy is intended to be the late game strength of Norway). The mid tier naval idea gains 5% cheaper capital ships instead, which is now lost as the tradeoff for the final naval idea. Also simplified the "Specialized Naval Industry"-idea's bonuses. Bonuses to "Battleships", "Battlecruisers" and "Heavy Cruisers" have been simplified to bonuses to "Capital Ships" (which should be entirely the same in the end, as Carriers don't count as "Capital Ships" in the current version's technology/unit files, and Super Heavy Battleships count as both "Battleships" and "Capital Ships").
+
+[*]Moved some manpower from "District Investments" to "Encourage Recreational Shooting". This should make getting manpower early require a bit more of a tradeoff. For non-extremist Norway, this means 1.5% manpower from "District Investments", 1.5% from "Encourage Recreational Shooting", and the final 1.5% from upgrading the last idea into "Heimevernet", for a total of 4.5% manpower. Since cold acclimatization doesn't show two decimals, said gain from "Winter Training" has been buffed to 0.3 instead of 0.25.
+
+[*]Fixed the starting skills of commanders Laake, Ruge and Fleischer to fit their personality traits. Admiral Edgar Otto has also been buffed a bit.
+
+[*]"The European Policy" in the monarchist branch now enables guaranteeing nations of different ideologies, should you so desire.
+
+[*]Smarter focus availability checks (e.g. so and so not when subject, etc.).
+
+[*]Fix to "the King's Choice"-decision, so it can't be used in civil wars, only against foreign aggressors.
+
+[*]Some compatibility mergers, but we've now about reached maximum compatibility for a mod of this scope.[/list]
+
+

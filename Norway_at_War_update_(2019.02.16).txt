@@ -1,0 +1,68 @@
+16.02.2019
+Version 1.3.2 - Large content, QoL and balance update (1.5.* WtT compatible)
+
+[b]Previous Updates (no room in previous patch notes)[/b]
+[list]
+[*]Buffed factory bomb protection of the "District Investments" idea.
+
+[*]Modified starting traits and skills of Kristian Laake somewhat.[/list]
+
+
+
+[b]Content[/b]
+[list]
+[*]Further modified starting traits and skills of Kristian Laake, one point moved from defence skill to planning skill.
+
+[*]Modified the 1936 technologies of Norway again, now - support weapons, + 1936 infantry equipment again, but starts with basic equipment in production again to represent the old Krag-Jørgensen M/1894. Also since major countries don't start with the support weapons tech, it made little sense for Norway to start with it, even if they might represent Great War machine guns. Transports and artillery additions as compared with vanilla tech still remains, though.
+
+[*]Trøndelag back to being a Rural Region (-2 building slots from previous versions), like in vanilla. Vestlandet down to Sparse Urban Region (-1 building slot compared to previous versions). The starting building slots were a little too powerful, compared to comparable states. Somewhat compensated for in "Construct more Hydro Plants!", which now add 2 building slots to three states, rather than just 1 slot per state. All in all, this should make for an early game nerf, a mostly unchanged mid game, and a somewhat nerfed late game.
+
+[*]Somewhat improved the "Norwegian Land Reintegration" category of decisions. The old integration events will still trigger at the completion of the decisions.
+
+[*]New events, especially relevant for the Monarchist focus branch, now letting you have more choice while setting up your faction, even letting you just leave it and create your own (AI won't do that, though, as the faction unlocks further focuses). Includes new references, as they often have before.
+
+[*]The Icelandic-Faroese revolt now has slightly improved scripting.
+
+[*]Better AI priorities for many focuses, especially military and naval focuses. Rearmament is now prioritized a lot harder when in war or civil war.
+
+[*]New decisions to switch in and out of the Monarchist cosmetic tag. This has a two year cooldown and costs a lot though, so it pays to be decisive.
+
+[*]Unique Norwegian tactic limited some more (in part so it doesn't spoil the Easter Egg country). Currently only Norway can get it, Iceland maybe in the future (as support for it is there, but currently no way of applying it).
+
+[*]Rebalanced "Heimevernet" and "New Defence Budget" to something that makes more sense both in history, in game and according to their descriptions. This in part includes their prerequisite ideas. "New Defence Budget" now loses max command power and max planning, and gains the reduced training time of "Heimevernet". "Heimevernet" loses the reduced training time, and gains 10 max command power, and 10% planning speed (not max planning, as planning speed makes more sense, and is not too strong a buff, like max planning would be).
+
+[*]Added new "Diplomatic Efforts" idea, to provide a real cost to the powerful "Bolster Foreign Relations" focus. The cost is VERY real now.
+
+[*]New country flags to better track the actions of the player and enabling appropriate decisions, etc., now and in the future.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]More tooltips for much better planning and mod transparency. Event options tell you what they do, focuses warn of civil war at several stages.
+
+[*]Fixes to erroneous spelling/grammar/formatting. Mostly small stuff, like "Motion of No Confidence" getting a capitalized "N". Thanks to Paradox for creating a British focus with the same name, but correctly capitalized so I could fix this.
+
+[*]Localisation for new stuff.
+
+[*]More French language. Très bien![/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Added 75 political power to "Finish the Nordland Line", to make it a bit more enticing.
+
+[*]The "Traditions Worth Fighting for?" focus now no longer has any land doctrine bonuses, but this is partly compensated with a tad extra army experience.
+
+[*]The "Building the Kingdom" idea is now even nicer to those who like to send volunteer forces.
+
+[*]The temporary resistance movement ideas, applied by decisions after completing the "Saboteurs" focus, have been rebalanced a bit. Now the enemy applied ones also include targeted modifiers giving temporary combat maluses against Norway, which replaced other less fitting debuffs.
+
+[*]All resource focuses blocked when in a civil war, so gaming the system for extra resources is impossible. Building slots/factories are still be possible to game to some extent, and they're not broken enough that something will be done about those. So keep enjoying getting something out of your civil war.
+
+[*]Renamed event file to the same standard I use on my other mods. This is mainly for my own sake.
+
+[*]More mod documentation, corrected documentation and improved script formatting, to make future modding even more comfy. Includes localisation files.[/list]
+
+

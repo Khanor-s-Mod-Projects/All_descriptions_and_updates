@@ -1,0 +1,48 @@
+19.09.2019
+Version 1.1.1, Large Flavor, Map and Localisation update (1.7.* Hydra compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Many, many new cities and state updates in the Balkans, Anatolia and elsewhere in Europe for flavor's sake. Some are renamed to their more temporary early 1900s names through the starter event, and then they can later be "reset" to their more permanent names later. Also rebalanced the victory point values of existing Northwestern European victory points, South Balkan victory points and West Anatolian victory points according to the size and importance of the different cities/towns at the time.
+
+[*]Started the work no one wanted to do. In addition to doing the victory points and historical city/town names in Northwestern Europe, this patch added historical May(!) 1910 populations in Iceland and the Faroes, as opposed to the TGW-used 1936 vanilla HoI IV population counts. It's a start at least.
+
+[*]Added more coal to the Struma Valley (Upper Struma/Sofia) state of Bulgaria to represent the historical growing mining operations around Pernik. Also added a bit to the Northern Thrace state just to the south of this.
+
+[*]Rebalanced the resources in the Ottoman Empire, specifically around the newly added Denizli town, where there was mining of both iron and chromium at the time. Now the relevant state not only has its new city on the map, but also rebalanced resources. The state now has slightly less wood, but more steel and chromium.
+
+[*]Also rebalanced the resources, industry and infrastructure of Northwestern Europe (Iceland, the Faroes, Norway and Denmark). Removed all airbases, added the relevant victory points (much taken from my NaW mod, but I also researched and added historical cities in Denmark's Jylland/Jutland Peninsula), reduced overall infrastructure in most affected states, added a few historical resources to Norway and Denmark (for Norway, a bit of steel and tungsten in Northern Norway and wood in the West and Trøndelag, for Denmark just a tad of wood in Jutland).
+
+[*]Added the "Balkan Infamy" decision category, which tracks the most threatening countries in the Southern Balkans. Currently just a glorified scoreboard that moves a bit up and down, but there's planned gameplay influences in the future. Added point adding and subtraction to various events and national focuses.
+
+[*]Added a new decision category picture for the above mentioned.
+
+[*]Added a decision for Austria-Hungary to instate the "friendly occupation" of Albania if at war with Serbia and controlling one of their two main states (if Albania exists, among other sensible checks). This is to represent the historical WW1 occupation where Albanians largely ran themselves, with some infrastructure investments and top level decisions by the Austro-Hungarians. Albania gets puppeted, but gets gradual autonomy and more free consumer goods for building through an idea. This idea also makes the AI prioritize defense so Albanian troops should stick around their home area mostly.
+
+[*]Above mentioned idea created.
+
+[*]Small mutual opinion modifiers added to Montenegro and Bulgaria if Bulgaria should come out on top of the diplomatic tug of war with Serbia.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Loads of localisation for the new cities with historical names for the time period.
+
+[*]Renamed Epirus to Southern Epirus to specify.
+
+[*]Improved the spelling and writing of the Balkan introduction event for Italy, Austria-Hungary, Montenegro, Serbia, Greece, Bulgaria, the Ottoman Empire and Romania.
+
+[*]Better formatting of line breaks in tooltips and the like.
+
+[*]Specified the definite article form of Bulgaria, Montenegro and Serbia to be "the Tsardom of Bulgaria", "the Kingdom of Montenegro" and "the Kingdom of Serbia" respectively.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed some broken localisation link to the "Balkan Politics" focus for Bulgaria. Before had nothing. Now has as much text as I could fit in the focus, as intended (just kidding, I would have liked more).
+
+[*]Fixed the First Balkan War with a correction to the end condition, namely the Ottomans' lost control of states. Before it was a little bit easier as the list was targeting a few non-Ottoman owned states. Now with the updated list, the Balkan League must control all Ottoman European mainland states (at least) with the exception of Constantinople to end the war.[/list]
+
+

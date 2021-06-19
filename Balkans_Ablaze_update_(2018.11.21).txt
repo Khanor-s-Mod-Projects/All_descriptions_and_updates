@@ -1,0 +1,62 @@
+21.11.2018
+Release version 1.0.0 (1.5.4 WtT compatible)
+
+[b]Initial Features[/b]
+[list]
+[*]Loads of events and news events.
+
+[*]Many cut and edited graphical assets from historical sources (thanks to wikipedia for bringing many of them together).
+
+[*]Loads of new choices and ideas for Balkan nations, especially Bulgaria, but also Greece, the Ottomans, Serbia and Montenegro in roughly that order.
+
+[*]New and reshaped states in the Balkans (including resources).
+
+[*]Many new victory points with added names in the localisation.
+
+[*]Revamped Bulgarian commanders.
+
+[*]Improved Bulgarian focus tree.
+
+[*]Some other stuff...[/list]
+
+
+
+25.11.2018
+Version 1.0.1, fixing broken stuff and small polishing improvements (1.5.4 WtT compatible)
+
+[b]Fixes/additions[/b]
+[list]
+[*]Fixed a significant oversight in the peace treaty of the First Balkan War due to state numbers being shuffled after the addition of the Voivodeship Silesia/Silesia/Kattowitz by Paradox and then Wolferos. Now the event treaty accurately gives Bulgaria Northern Thrace like it's supposed to.
+
+[*]Added standard research bonus for doctrines to the Bulgarian military theorist.
+
+[*]Improved grammar and spelling, including fixing mistakes in the localisation of several events, ideas, designers and focuses.
+
+[*]Made a news event about the fall of Adrianople a major news event so the world can see it.
+
+[*]Somewhat limited the insanely high stability being given to Bulgaria in most instances, but added war support to places where it makes sense instead.
+
+[*]Added a claim for Greece on southern Albania/Northern Epirus.[/list]
+
+
+
+26.11.2018
+Version 1.0.2, fixing some minor/moderate issues and fine-tuning events (1.5.4 WtT compatible)
+
+[b]Fixes/additions[/b]
+[list]
+[*]Fixed issues where Romania and the Ottomans could rejoin the Second Balkan War if already kicked out of the war by Bulgaria. Now they'll join Serbia's war against Bulgaria by default, and only get war goals for themselves instead if there's no ongoing Serbian war with Bulgaria.
+
+[*]Added Ottoman focus file to edit, first and foremost to fix the rejoining the Second BW issue, but there will probably be further changes and additions in the future.
+
+[*]Added additional safety measures to prevent rejoining the Second Balkan War, even for Greece and Montenegro which didn't really have that issue. Best be on the safe side.
+
+[*]Reworked localisation and look of the "Ceasefire with Bulgaria" idea/national spirit. Now it looks better, and some redundant text from a separate peace issue-workaround from before WtT's new and improved peace system has been exchanged for something more appropriate.
+
+[*]The Ottomans now lose their cores on most of the Balkans like intended if they lose the First Balkan War. Previously Southern Macedonia had been overlooked.
+
+[*]In Serbia's worst case scenario, leaving them without Northern Albania and without Macedonia after the Balkan Wars, they will get a new "Balkan War Revanchism" national spirit upon the conclusion of the Second Balkan War to help them along a bit.
+
+[*]However, Serbia will also lose some base war support upon losing the Second Balkan War, ensuring they can't spring back immediately.[/list]
+
+

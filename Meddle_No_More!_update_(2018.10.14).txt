@@ -1,0 +1,12 @@
+14.10.2018
+Version 1.0.1 - AI improvements
+
+[b]Features[/b]
+[list]
+[*]Added ai_will_do modifiers to the German Alignment countermeasures for France if they're independent and have gone towards the left with their focuses. This is an extra measure of making sure the AI does not remove the "Communist Refugees" national spirit in the case which it makes the most sense for them to keep it.
+
+[*]Added ai_will_do modifiers to the generic influence countermeasures for Poland and Czechoslovakia if they're independent and have gone for their political alignment focuses (which give influence spirits). For Poland this pertains to "Go Right", "Go Left" and the Liberalism focus. For Czechoslovakia it only affects the communist route which at one point gives them political influence for Communism.
+
+[*]Reduced the already quite small (additional) chance of AI subject states removing political influences on themselves. This can be both a negative and a positive for their overlords, but it still aims to eventually normalize subject state politics (with them neither opting to directly oppose their overlords, nor opting to be more radical than them, neither of which would make sense).[/list]
+
+

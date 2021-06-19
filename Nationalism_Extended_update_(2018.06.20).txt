@@ -1,0 +1,27 @@
+20.06.2018
+Version 1.2.1c - Small balance update to make the Traditionalist branch more playable (1.5.3 WtT compatible)
+
+[b]Balance and fixes[/b]
+[list]
+[*]Nerfed the "Natural Political Drift" (hidden) idea to make the switch to non-aligned easier.
+
+[*]Buffed the decision "Expand Civil Support" (for traditionalism). Now it lasts twice as long, while costing half as much per unit of time, and adding twice as much non-aligned support per unit of time. It was pretty lackluster as there's no decision to fire a civil war for traditionalism, and thus lowering stability to enable such a thing was a non-factor. These two changes should now make the switch significantly easier, but it's still hard compared to the other ideologies. I definitely recommend using the generic political decisions to raid other ideologies to help your switch along.
+
+[*]Added 50% reduced tension to justify war goal to the final tier of the "Traditionalist Ethos" idea.
+
+[*]The "Guard Divisions" focus now no longer has economy law requirements, now it only has recruitment law requirements. This should make it a tad easier to complete.
+
+[*]Increased AI weight/willingness to choose some of the good focuses at the end of the Traditionalist branch.
+
+[*]Added some modifiers to AI weights to "Open Up Political Discourse" for traditionalism. Now they won't do it if they're a puppet with another ideology, and they have increased willingness to do it if they're independent and have more than 40% support for the non-aligned ideology.[/list]
+
+
+
+21.06.2018
+Version 1.2.1d - Small compatibility fix (1.5.3 WtT compatible)
+
+[b]Other[/b]
+[list]
+[*]Removed "Meddle No More!" and "Alt-History Toggle" as dependencies after feedback and testing showed that it did not work as intended.[/list]
+
+

@@ -1,0 +1,95 @@
+14.04.2018
+Version 1.3.0 - Large content update, with added compatibility for 1.5.2 (accounts for state changes and other additions by Paradox)
+
+
+
+[b]Content[/b]
+
+[list]
+[*]Added decisions to procure destroyers from the United Kingdom and Germany if you have the appropriate focuses.
+
+[*]Added tooltips and functionality to focuses concering this.
+
+[*]Added new focus in the Axis path, "German Naval Coordination", to be the equivalent of the Allied path's "Delegate Merchant Fleet Control".
+
+[*]Reshuffled the Allied political path to make it fit history a bit better (Merchant Fleet/Nortraship focus now comes before the Military cooperation, due to its importance).
+
+[*]Deleted previous edited version of the "00_traits" file in the "country_leader" folder, and instead moved the "Partisan Leader" trait into a new file, "00_NaW_unique_traits", to increase compatibility and ease the addition of unique modded traits.
+
+[*]Added five new unique country leader traits to the above mentioned file, and divided them among the democratic and monarchist leaders. This includes "Naval Officer", "Agrarian", "Business Owner", "Welfare Proponent" and "Successful Welfare Proponent". For Haakon VII (with his many traits), "Naval Officer" replaces "Smooth Talking Charmer".
+
+[*]Created an unlockable (mid/late game) decision to finish the welfare programs of the Nygaardsvold Government, improving Johan Nygaardsvold initial trait among other effects.
+
+[*]Added "the King's Choice" ("the King's No") decision to improve war support if attacked. Woooh Norwegian history/cinematography reference. It works rather similarly to Churchill's speeches in terms of requirements/effects.
+
+[*]Once again made use of Paradox' sweet new focus icons, and changed a bunch of icons to something new, polished, and nice. Also changed the icon for "Heimevernet", which was changed last update, as the icon I chose back then was maybe too "action filled", and depicted too many expensive toys, for a Norwegian Home Guard focus.
+
+[*]Also improved and diversified on some of the decision icons of old, and of course chose icons which fit the newly implemented decisions.
+
+[*]The Monarchist path's European policy sub-path now has more functionality. The "Baltic Anti-Communist League" now actually does something, namely adding relation boosts and increased AI willingness to ally and befriend Norway. Still considering whether to do some event chain here, though. And maybe some relation boosts in the German and British mutually exclusive focuses.
+
+[*]Improved priority on the Norwegian Monarchist decision category, now it will be on the top of the decisions list bar actual crises.
+
+[*]Added decisions to contruct defensive lines when "Urban Defences" has been finished, and construction 2 has been researched. Both the "Glomma-Halden line" and the "Lyngen line" have been implemented. The second can also be constructed by Germany. AI weights for when they should build them have also been added.
+
+[*]Added unique "Develop Petsamo Nickel Deposits" decision for the controller of Petsamo state (Finland at the start), which requires excavation 1, and adds 8 chromium and 4 tungsten there to represent the nickel deposits.
+
+[*]Removed "finland" idea file to make the mod totally compatible with all Finland mods not editing states (removed the edited country history file in a previous update). Now there's only a unique decision to develop Petsamo's resource deposits, and the light state changes left.
+
+[*]Renamed decision files, decision category file, and technology file (to go with previous technology sharing group file's renaming from the previous update). Mod compatibility has now increased a lot over the updates.
+
+[*]Added wargoals to the fascist path's revisionist focuses.
+
+[*]Added code to help the AI prepare for war a bit when they take certain focuses (eg. will_lead_to_war_with = DEN, etc.)
+
+[*]Removed one of the wargoals from the communist path's "Unite the Scandinavian Workers!" focus to prevent AI (and players) from being suicidal and declaring two wars at once. Having cores on Sweden should still let you justify relatively quickly anyways. Added more war support to this focus and the following "Pressure Finland" focus to compensate for this.
+
+[*]Allowed integration events for Iceland (and renaming of the state) if Iceland is a subject of Norway as well.
+
+[*]Generally improved on the coding of the land integration events. Now they can remove certain foreign cores, are allowed for "original_tag = NOR" instead of just "tag = NOR", and target "ROOT" instead of "NOR" which should allow for broader applications.
+
+[*]Removed rule change and tooltip to allow puppet states in peace conferences from "The Nordic Policy" focus, as Paradox has now implemented the ability for non-aligned/neutral/monarchist nations to puppet other nations by default.
+
+[*]Added Paradox 1.5.2 improvements and switched the mod's map/state changes around to not conflict with the "Voivodeship Silesia". The "cosmetic" file in the "countries" folder has also received Paradox' new edits.[/list]
+
+
+
+[b]Localisation[/b]
+
+[list]
+[*]Fixed many old tooltips to be clearer. Added more general purpose tooltips to be reused for many focuses which do the same things. Removed the "Work in Progress" tooltip from many of the focuses which have now received proper functionality (and even the three focuses which still have it now work quite fine). Certain focuses have received entirely new tooltips as well.
+
+[*]Improved word coloring and language of many different focus tooltips, now clearer and more consistent.
+
+[*]Also added more consistent tooltips to certain decisions.
+
+[*]Fixed a few spelling and spacing errors in the localisation file.
+
+[*]Added localisation to all the new additions.
+
+[*]Fixed spelling of "democratically" in the "Haakon VII abdicates" event.
+
+[*]Improved my notes in the mod files for more readability and to have an easier time to work further on the mod. Fixed capitalization errors and added consistent "headline" formatting. Also reshuffled certain categories, and added more sub-categories in the main localisation file.
+
+[*]Improved certain idea descriptions.[/list]
+
+
+
+[b]Balance and fixes[/b]
+
+[list]
+[*]Rebalanced a lot of ideas. All four population growth boosting ideas have gotten 5% less bonus to growth, as to not overdo the long term effects.
+
+[*]Switched the base game "German Advisors" idea (meant for China, as the description clearly indicates) unlockable through the Axis path, with a unique "German Advisors" idea for Norway, with fitting description and effects (unique for this mod).
+
+[*]Switched the combat bonus ideas for the "Guard establishments" of democratic/monarchist Norway, fascist Norway, and communist Norway. With changes listed, these are respectively "Hans Majestet Kongens Garde" (before: -5% attrition & +10% recovery rate, now: +3% defence & +10% recovery rate.), "Hirden" (before: +5% org & +1% recruitable pop, now:  +5% attack & +1.5% recruitable pop), and "Folkestyrken" (before: +3% recovery rate & +3% recruitable pop, now: +10% recovery rate & +3% recruitable pop).
+
+[*]General rework of many focus unlocked wargoals, so they are not given when the relevant nation is your subject or a member of the same faction. Also checks for them owning relevant states in certain cases.
+
+[*]Rebalanced certain focuses cost/time according to the actual bonuses they give. "Fortify our Military Bases" from 105 days to 70 days, "Heimevernet" from 70 days to 105 days.
+
+[*]More war checks have been added to focuses. Some now also check for mobilization laws. Here, higher is generally better. There is, however, a newly added decision where the opposite is actually true.
+
+[*]Rebalanced "Expanded Aluminium Production" & "Access the smaller Deposits". Yield changes are -1 aluminium in Østlandet, +2 in Vestlandet, -2 in Trøndelag, and +1 in Nord-Norge, as compared with the previous version. Trøndelag gains +2 chromium (representing copper, etc.)[/list]
+
+

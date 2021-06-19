@@ -1,0 +1,40 @@
+11.03.2018
+Version 1.2.0a - Small fixes and localisation corrections/improvements
+
+[b]Localisation[/b]
+[list]
+[*]Fixed errors in Norwegian decisions to prepare for a Monarchist civil war. Also some removed redundant spacing here.
+
+[*]Shortened certain event texts that were too long (and would go under the option buttons).
+
+[*]Improved on certain event texts as well.
+
+[*]Reworked the description text of "Delegate Merchant Fleet Control" focus.
+
+[*]Fixed certain capitalization errors in cosmetic countries' names.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Added extra checks for the election cycle event of '38, so it will not trigger if in a civil war or if having ended up with abolished elections in the Monarchist path.
+
+[*]Fixed Norwegian civil war event being shown as a standard event instead of a news event (causing the news event picture to not fit).
+
+[*]Added a bit of war support to certain core and/or wargoal granting focuses.
+
+[*]Made one of the infantry equipment bonuses into a bonus for either infantry weapons or artillery. The focus tree lacked artillery research bonuses before.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+Version 1.2.0b - Single fix update
+
+[b]Balance and fixes[/b]
+[list]
+[*]Correction for missing "OR" statement in the election cycle event of 1938. Now it correctly doesn't trigger either if Norway is in a civil war or they're an absolute monarchy, rather than both being necessary.[/list]
+
+

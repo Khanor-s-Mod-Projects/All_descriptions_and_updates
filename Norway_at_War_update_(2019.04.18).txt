@@ -1,0 +1,36 @@
+18.04.2019
+Version 1.3.4 - Map, content and flavor update (1.6.* MtG compatible)
+
+[b]Content[/b]
+[list]
+[*]Added two new mutually exclusive late game Army focuses, where you can choose between enabling bicycle battalions or starting a Panzer program.
+
+[*]Rebalanced victory point values and added 7 new cities in Iceland, the Faroes and Norway. Demographic history for the periods in and around the game's timeframe have been consulted (now Trøndelag and Nord-Norge states are once again edited in the mod, in addition to Iceland). Localisation included.
+
+[*]The expanded tech sharing focuses now have an additional bonus if utilizing the "Together for Victory" DLC, which should make them more interesting picks. These focuses now also require you to be in their relevant tech sharing groups, which the previous focuses should have helped with.
+
+[*]Improved starting OOB, with support anti-air and support artillery at the start. Binary division now has engineers instead of recon support.
+
+[*]Main naval base of Norway moved from Oslo to Horten/Tønsberg.
+
+[*]Added Norway to the 1936 and 1939 bookmarks, with features shown, and an introduction text.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Cosmetic tag and subject tags fixed with correct capitalisation for the DEF.-version of their names.
+
+[*]Frøysøy-Østersund and its variant names on the map and in events now utilize a hyphen instead of a forward slash in its name. This should make it show up more consistently if using mods that alter fonts/graphics.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Added basic mountaineer starting tech for Norway again, which got accidentally removed in the last update. A restart will be necessary if you want to make use of this technology without researching it.
+
+[*]"Democratic/Fascist/Communist Influence" ideas from the Nordic faction path now all timed instead of permanent, bringing it more in line with similar effects in the current versions of HoI IV.
+
+[*]Norwegian focus tree no longer classified as a default focus tree, which should enable the mod to show up as a bookmark, which incidentally have been added this update.[/list]
+
+

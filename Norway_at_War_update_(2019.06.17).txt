@@ -1,0 +1,48 @@
+17.06.2019
+Version 1.3.4a - Map, flavor and compatibility update (1.7.* Hydra compatible)
+
+[b]Content[/b]
+[list]
+[*]Added three new monarchist focuses to develop the economy of your conquests, as well as priming them for further construction.
+
+[*]Added Krisitiansund VP, as at the time it was quite the important place in the region, even compared to today.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Shortened the bookmark localisation (same for 1936 and 1939) to make it fit the allocated area a lot better, though still not perfectly. Also switched one of the focuses displayed for another interesting one.
+
+[*]Localisation for Kristiansund.
+
+[*]Simple localisation for the new focuses.
+
+[*]Updated .mod file for 1.7.* Hydra.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated the history files with the new political party support definitions and fixed a small error, making the mod entirely compatible with HoI IV 1.7.0 Hydra.
+
+[*]Improved a localisation tooltip referring to technology sharing groups.[/list]
+
+
+
+[b]Other[/b]
+[list]
+[*]Updated and improved the description, most notably to add a great music mod to the recommended mods area.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+Version 1.3.4b - Small fix (1.7.* Hydra compatible)
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed erroneous state targeting in one of the new economic focuses of the monarchist branch.[/list]
+
+

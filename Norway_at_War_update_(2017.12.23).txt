@@ -1,0 +1,36 @@
+23.12.2017
+Version 1.1.4 - Content, functionality, and localisation update. Merry Christmas and Happy Holidays to all subscribers and visitors!
+
+[b]Content[/b]
+
+[list]
+[*]Norway now starts with basic artillery researched. Kudos here goes to SHANE55 and SkyForger.
+
+[*]As I found late game research was a little too powerful for a non-major country (especially if one spent both of the Norsk Hydro electrical research bonuses on further research increasing computing technologies). This has been toned down by removing the respective 1% and 2% additional research speed from the high tier naval production ideas/national spirits. It's now been replaced with a nice, but slightly less powerful 1-2% consumer goods freed up for construction/trade. It's also fitting since Norway was a decently well off and industrialized nation (with Norwegian sailor wages higher than, for example, their British equivalent ones).
+
+[*]While the focus tree is pretty good when you have everything, it still takes more than 10 years of ingame time to finish in its entirety, even with no continuous focuses or breaks. As such, "Ski Infantry" and "Equipment Effort" focuses are now 35 days instead of 70 days each. "Mountaineers" however, has been increased to 70 days again. This should frontload the power of the Army focuses a tad, while saving one month of the time the focus tree takes overall.
+
+[*]The unlockable basic mountaineer template, "Bergjegere", has been reduced to 6 battalions instead of previous 9 battalions. This should make the later unlockable elite template, "Telemark Bataljon" (might later undergo a namechange, as "Telemark Bataljon" was established several decades after the war), more worthwhile with its 9 battalions, support engineers, and recon units.
+
+[*]Lowered the ideology drift from the "National Collectivism" and "Socialist Collectivism" ideas.
+
+[*]Removed the bypass for "Join the Allies", and also changed it into a functionality similar to "Join the Axis"/"Join the Comintern" with a non-aggression pact and a large increase in AI willingness to ally.
+
+[*]Added a powerful ability to puppet nations as a non-fascist/non-communist nation under the "Pragmatic Diplomacy" focus.[/list]
+
+
+
+[b]Localisation[/b]
+
+[list]
+[*]Added yellow text to certain key words in several focus tooltips to make their text clearer to read and their functionality more understandable.
+
+[*]"At any Cost" focus now has a capital "C" in the word "Cost". Now the mod is more "literally playable".
+
+[*]Improved localisation for the "Gutta på Skauen" idea/national spirit.
+
+[*]Went through the events file and added technology bonus localisation references where I could.
+
+[*]Improved localisation of several focuses, such as the "Ski Infantry", "Mountaineers", and "Join the Allies" focuses.[/list]
+
+

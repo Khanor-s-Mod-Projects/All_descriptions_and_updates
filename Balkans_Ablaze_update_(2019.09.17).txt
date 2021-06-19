@@ -1,0 +1,62 @@
+17.09.2019
+Version 1.1.0, Major Gameplay and Flavor update, with compatibility and small fixes (1.7.* Hydra compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Added new land integration decisions for Bulgaria and Romania (somewhat more compacted decisions compared to the NE ones). Here they lie under the "Statecraft" decisions category.
+
+[*]Added the new "Montenegrin Allegiance" minigame (decisions) between Bulgaria, Serbia and Montenegro, similar to the Netherland's Gateway to Europe decisions from MtG. The plot twist here is Serbia starting in an advantageous position. Useful for a Bulgaria that wants to avoid overburdening itself in the Second Balkan War, or a Montenegro which wants to make their own choices. A political power prize goes to the winner.
+
+[*]Province modifiers.
+
+[*]New events.
+
+[*]Introducing triggers and effects by variables.
+
+[*]Some historical starting heavy guns for Serbia are now given in the new startup event.
+
+[*]A new decision category picture.
+
+[*]Rebalanced cores/claims in the Balkans further. Now Hungary has cores on all of royal Hungary.
+
+[*]Many European states (outside the Balkans too) now use more historical names, and have rebalanced cores. Now Memel is a German core instead of a Russian one.
+
+[*]Removed cores from some pacific islands colonies (though still more to do). Samoa is now German instead of American according to history which saw them controlling the larger area and population there. It also fits with the base game where New Zealand has taken hold of the German possessions there by 1936, represented as all of Samoa state.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added COMPLETE (land) division naming lists for Bulgaria, and the same for the most basic divisions of the Ottoman Empire (infantry, garrison, etc.), integrating starting division names from the map. This was a lot of work, and I had to learn Bulgarian counting. You best appreciate.
+
+[*]Plenty of new tooltips for readability, mostly for Bulgaria.
+
+[*]Added some artillery localisation for the Serbian tier one artillery pieces (light and heavy), as well as improving a tad on the Bulgarian ones (including higher tier WW1 artillery pieces Wolferos have not implemented, just in case).
+
+[*]Updated many state names and added new cities/towns with victory points.
+
+[*]New flavor and story events at the beginning. Now there is a joint introduction event which eventually will branch into specific story events. This is applied to all starting Balkan nations, and for Bulgaria it branches into their old starter event.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed an annoying slot error for the Nadezhda Class protected cruiser for Bulgaria. Now it works as intended without error message.
+
+[*]Balanced the Serbian fighting spirit to somewhat more fitting standards. Now gives 5% division defense and 5% division (morale) recovery rate, so they're a mix of Montenegro and Greece. The recruitable pop is down to 2% like Montenegro and Greece.
+
+[*]Improved old events, including treaty events. Their localisation text has been improved alongside them.
+
+[*]Rethought starting cores/claims.
+
+[*]Rebalanced Ivan Kolev's overall level according to his skills from TGW. Also improved the Bulgarian commander traits after more research.
+
+[*]Rebalanced some of the Great Powers' national spirits to improve the flow of the war. Now the "Scramble for Africa" gives non-core manpower instead of straight manpower.
+
+[*]Fixed and then further balanced the electronics research of TGW.
+
+[*]Improved the renaming of Bulgaria's Monarchist/Neutrality Party so you can see it in the game menu as well.
+
+[*]Restructured the files and folders of the mod a bit.[/list]
+
+

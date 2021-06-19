@@ -1,0 +1,20 @@
+21.01.2019
+Version 1.2.2 - Feature patch, adds more coring decisions with categories and flavor texts (1.5.* WtT compatible)
+
+[b]Features[/b]
+[list]
+[*]Added new coring decisions for Iceland, Norway, Denmark, Ireland, Belgium, Luxembourg, France, Greece and Ethiopia, with individual country decision categories, and relevant flavor texts attached to these. Several of these include multiple states to integrate should you control them.
+
+[*]Ireland and Greece also get special decisions to rename these states to their own language after they've gained cores on them.
+
+[*]Added decisions and decision category with flavor text for Hungary owning and controlling Vienna to move their capital there, which is sure to give your Austria-Hungary playthroughs that extra little flavor should you want it.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated the integration of "Meddle No More!" to the newest version, which should make the AI do less weird stuff overall. In short they'll work with their ideologies more now, and especially if they have gone down the relevant path on their focus tree.
+
+[*]Removed the edited vanilla Soviet event file to make this mod completely compatible with Soviet focus mods out there.[/list]
+
+

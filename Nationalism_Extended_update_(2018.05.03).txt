@@ -1,0 +1,44 @@
+03.05.2018
+Version 1.2.0 - Content, balance, streamlining, and compatibility update (1.5.3 WtT compatible)
+
+[b]Content[/b]
+[list]
+[*]Removed the files "common\ai_strategy\ENG" and "event\Baltic", as the changes there weren't really needed anymore, and I find that the base game with DLC is in a pretty good state. The United Kingdom will now revert to vanilla balance between plane production and other production, as I find it's pretty decent in the current HoI IV version, and while the Baltic sanity checks I added for surrendering to the Soviets may be gone now, it's not an issue that often currently. The mod should now be more compatible with other mods, generally more lightweight (uses less space), and easier to maintain (for faster and easier updates).
+
+[*]Removed the following five localisation files: "localisation\dod_focus_l_english + dod_ideas_l_english + focus_l_english + ideas_l_english + modifiers_l_english". These edits of base game and DLC localisations (which would require a lot of effort to update, as they included a lot of things not specific to this mod. Instead they've been exchanged with a single mod-unique localisation file ("nationalism_extended_mod_text_l_english"), which only regards localisations for this mod, preventing having to update this everytime Paradox changed something in the aforementioned files. This vastly cuts down the amount of work needed to update the mod, and ensures it's slightly more lightweight and compatible with other mods.
+
+[*]Removed the German national focus file ("common\national_focus\germany"), as I felt it wasn't worth editing the base game's tree just to lower WT by small amounts and add cores through specific focuses. Thus the idea to do land integration by decision was born. Cores on former German territory in the east have thus been moved to decisions once you control the relevant land. The WT-lowering in the German tree I found were redundant by now, as Paradox have slowed down the generation anyways. Core on Alsace-Lorraine/Elsass-Lothringen is available for both Monarchists and Fascists by default now, so I found no need to add a decision for that so far.
+
+[*]Added land reintegration ideas for the Netherlands (HOL), Germany (GER), Austria (AUS), Lithuania (LIT), and Bulgaria (BUL), or any temporary tag (D01 - D02 - ... - Dnn) which has one of the previous as their original tag (ex. "original tag = HOL"). These allow these nations to activate a timed politcal power drain to get cores on former territories that they get control over again. Examples include Vlaanderen for the Netherlands, Wilno/Vilnius for Lithuania, and the Thrace/Trakiya and Thessaloniki/Solun states for Bulgaria. A decision category file was also added, with a specific "Land Reintegration" decision category for each of the affected countries.
+
+[*]Also added some slightly rarer decisions which require control, ownership and a core on former territories to "fully reincorporate" these territories, which refunds some of the previously spent political power and renames them to more appropriate names for the nation (with examples including "Wilno" --> "Vilnius" for Lithuania, including the city itself, "Slovenia" --> "Krain" for Austria, and "Voivodeship Silesia" --> "Kattowitz" for Germany.)
+
+[*]Also added a propaganda decision for Bulgaria (specifically "original tag = BUL") to remove Yugoslavian claims on most of their nation, which takes some time and effort to implement, but removes Yugoslavian claims and adds some stability. I really didn't like those unremovable claims on all of the Bulgarian nation. Yugoslavia can still utilize them if they justify quickly after taking the relevant focus.
+
+[*]Removed the edited base game idea-file for Hungary, and instead put the changes made there into a new file for unique NE-ideas. The Yugoslav and generic idea files remain as I preferred editing existing ideas in those cases. Balance wise, this only loses us the slight bit of manpower on the Hungarian naval branch (which itself required obtaining a coastline. This I felt was fine anyways with the already existing manpower-buffing ideas I've added for Hungary ("Grand Rearmament" first and foremost).
+
+[*]Exchanged an edited game "opinion modifier"-file for a unqiue "opinion modifier"-file for this mod. Compatibility was thus also increased here, and the new file should also be a tad smaller than the old edited one.
+
+[*]Generally updated the mod to HoI IV version 1.5.3 ("Cornflakes"/"Waking the Tiger") standard, and included previous improvents Paradox had made to the formatting of the Polish focus tree too. This should probably make the mod a tad easier to update should Paradox make additions/changes to the Polish focus tree in the future.
+
+[*]Overall, the changes were 1 file folder (common\ai_strategy), and 10 files (1 AI strategy, 1 idea, 1 opinion modifier, 1 national focus, 1 event, 5 localisation) removed, while 1 file folder (common\decisions), 1 file subfolder (common\decisions\category), and 5 files were added (1 decision, 1 decision category, 1 idea, 1 opinion modifier, 1 localisation). In total this comes to 5 files less than before, but 1 more containing folder.
+
+Out of the 5 newly added files, 3 out of 5 replaced old edits of base game files with mod-unique files, for much improved compatibility with other mods and future DLC additions.[/list]
+
+
+
+[b]Balancing[/b]
+[list]
+[*]Removed a few of the extra research bonuses I've previously added to the generic focus tree. Especially in the army tree, but also for some of the more overpowered ahead of time bonuses for ships and submarines. Land doctrines take a lot of time to research, and are really important anyways, so I found those in particular were attractive enough with vanilla values. Other than that, as naval doctrines and air doctrines in general are faster to research and less attractive to most players, their increased amount of research bonuses remain. The game is now slightly more tough and challenging for generic focus tree nations research-wise, as seem appropriate.
+
+[*]Buffed impact of the previously unimpactful "Mutual Assistance towards Balkan Dominance" opinion modifier unlocked in the Austro-Hungarian part of the Hungarian focus tree. It went from +20 trade relations to +50 trade relations.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added "NE_"-prefix to all generic focuses, ideas, and modifiers, both in the asset files and (for the references) the localisation, to ensure compatibility now and in the future, in case of the base game, DLCs, or other mods wanting to use the same names for things. The only exceptions were the focuses, ideas and modifiers for Hungary, which were already prefixed with "HUN_", making them much less likely to come in conflict with other game/mod assets anyways.
+
+[*]Also added localisations for the all the new content, mainly the decision categories and the decisions.[/list]
+
+

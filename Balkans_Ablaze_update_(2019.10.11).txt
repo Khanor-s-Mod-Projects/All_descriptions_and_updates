@@ -1,0 +1,86 @@
+11.10.2019
+Version 1.1.3, Large Flavor, Feature and Balance Update, with some map improvements (1.7.* Hydra compatible)
+
+[b]Features/Content[/b]
+[list]
+[*]Added a decision for Austria-Hungary to puppet Albania once they've sufficiently occupied Serbia during WW1. This represents the occupation on rather friendly terms that occurred back then with Albanians having quite a bit of autonomy. In game this is represented by a new idea giving them gradually more autonomy and some reduced consumer goods usage to represent investments made by the Empire.
+
+[*]Somewhat similarly, but a bit harsher, added the possibility for Germany to puppet Luxembourg at the start of the Schlieffen plan should Luxembourg agree. This kinda happened historically, though the Germans might have had plans on eventual annexation. A somewhat worse national spirit than the Albanian one is given to represent this occupation, and the Grand-Duchess of Luxembourg now has a new starting trait representing her cordial attitude to the occupiers.
+
+[*]There's also the timed "Low Popular Support" idea for Luxembourg, to represent a large part of the populace disagreeing with their leaders collaborating with the Germans. It will take some time before their country can be of use to the Central Powers, or itself for that matter.
+
+[*]New event leading up to the Occupation of Luxembourg of course, with a new event picture.
+
+[*]New leader trait, like mentioned.
+
+[*]Bulgaria can now even call Montenegro to war in the Second Balkan war if they won the influence mini game, through a decision and a subsequent event. Montenegro gets the final say if they want to join, but it can be asked again after a certain cooldown if they did not agree.
+
+[*]Treaty changes allowing for some small gains for Montenegro should they join Bulgaria and win the Second Balkan War.
+
+[*]Smarter checks for whether or not Montenegro should join the Entente upon the outbreak of the Great War, or not.
+
+[*]Reshaped the border between Eastern Thrace and Constantinople to allow for a super accurate Enos-Midia line.
+
+[*]Moved buildings in Struma Valley, Varna, Northern Thrace, Eastern Thrace and Constantinople to make the on map buildings have nicer and more sensible location, located near historical population centers and the likes (and also to account for the somewhat shifted border between Eastern Thrace and Constantinople). Also moved some airbases to match their graphics.
+
+[*]Finally in a bid to give the Central Powers the historical early advantage they had, a new timed idea is given to France upon the outbreak of the War should Germany have declared it representing their wait and see attitude. Slower division speed and entrenchment speed should see that AI Germany is able to advance at least a little bit into Belgium in such a case. There's also one for Germany that's been surprise attacked by France, but this one is not yet implemented.
+
+[*]4 new cities in the Austro-Hungarian Empire (Bozen, Mostar, Zenica and Újvidék (Neu-Satz/Novi Sad).
+
+[*]Çanakkale city/VP added to the Ottoman Empire. Also Ankara is now worth less victory points since it wasn't that big and important back then, while Konya is now worth more victory points since it was relatively bigger and more important back then.
+
+[*]Historical starting guarantee of Bulgaria from Russia. Removed upon Bulgaria upsetting Russia with actions such as criticizing the Treaty of London and preparing to attack Serbia.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added near full early artillery localisation for Turkey, and some to Greece. Improved on the former Bulgarian and Serbian ones just a bit.
+
+[*]Added only generic descriptions of Field Artillery and Heavy Artillery for Austria-Hungary and Romania for now.
+
+[*]Filled the Bulgarian land unit lists even more, just in case the player or AI decides to make a whole heap of units. Now the fallback names will likely not be used at all, though they are very similar.
+
+[*]Added localisation for the new cities, and renamed most existing Austro-Hungarian cities to German, Hungarian or Croatian/Bosnian/Serbian depending on whether they were in Cisleithania (or majorly German inhabited), Transleithania or the Condominium of Bosnia.
+
+[*]Localisation for all the new ideas, decisions, events and so forth.
+
+[*]Some smaller localisation fixes/improvements.
+
+[*]More filling comments on my script for those interested (particularly in the main localisation file).[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]All doctrines boostable with army/navy/air experience now, like in the base game as of 1.7!
+
+[*]Fixed the Brest-Litovsk treaty to hand Åland over to Finland and remove the former Russian Empire cores upon the newly independent nations and lost territories. Some can of course still be regained through focus. The Soviets now also start with some initial cores to be able to defend themselves better, and then of course gaining cores on all of the remaining Russian Empire upon winning the civil war. Also tried to portray Mongolia a tad more accurately during this.
+
+[*]Fixed and improved the Treaty of Frankfurt. Walvis Bay is accurately targeted, and further improvements have been made for Ottoman, German and Austro-Hungarian gains (also clears many Entente claims). It's now also possible to get gains by joining the Central Powers as: Persia, Ethiopia, Spain, the Netherlands, the United States and Japan. If several countries would want to get the same state such as Abu Dhabi (Ottomans & Persia), French Somaliland (Ethiopia & Italy) and Vlaanderen (the Netherlands and Germany) the stronger "claim" takes priority. So in these cases it goes Abu Dhabi --> Persia, French Somaliland --> Ethiopia and Vlaanderen --> the Netherlands. Also some limited gains can be made from this treaty off of Russia even if the Brest-Litovsk treaty fired a while ago. This includes only a few states such as Azerbaijan for Persia, and North Sakhalin for Japan. If you're the Russian Empire these can be avoided entirely by not letting the Brest-Litovsk treaty fire.
+
+[*]Command power added to the Bulgarian Militarism national spirit (and it's possible upgrade), as it was a tad underwhelming now.
+
+[*]Rebalanced the starter land doctrine. It really didn't make sense to me that machine guns gave only hard attack and no soft attack, so I fixed this and (in my own view) made that research split a real choice. Also went through other parts of the starter land doctrine since I was at it already. You'll see some changes from TGW itself.
+
+[*]Rebalanced the early ambulance techs in the infantry research tree. Wanted to make use of the new modifier Paradox added in a not too old update, and also make the morale buff apply to all army units.
+
+[*]Bulgarian and Ottoman Army theorists now give 10% land doctrine research bonus compared to earlier 7% and 0%.
+
+[*]Bulgarian focuses now give mutual opinion bonuses, and also a little bit of improved relations with Greece, Montenegro and Serbia. The main relations bonus with Serbia is lost upon criticizing the Treaty of London.
+
+[*]Added starting "Drazki Class" and "Nadezhda Class" ships for those playing Bulgaria without MtG too.
+
+[*]Fixed a broken event picture linking.
+
+[*]Fixed erroneous trait removal and trait allocation for Tsar Ferdinand should Bulgaria win the Second Balkan War (could have been the last update too, but I'm not sure so I'm just putting it here).
+
+[*]Switched a civilian factory from Struma Valley to Stara Planina and a military factory back to represent Sofia Artillery Arsenal as military industry of course.
+
+[*]Baluchistan, French Somaliland and British Somaliland have all been buffed a little (now they're pastoral regions, as opposed to wasteland and/or enclaves).
+
+[*]Buffed and tweaked some Bulgarian naval focuses. The scopes were too limited and the rewards too mediocre. Now they're more useful.
+
+[*]Cut airbases from several states as aviation was still in its infancy and using 1936 airbases for 1910 doesn't make sense.[/list]
+
+

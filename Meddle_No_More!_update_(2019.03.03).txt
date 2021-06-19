@@ -1,0 +1,18 @@
+03.03.2019
+Version 1.0.1b - MtG update and slight AI improvements
+
+[b]Features[/b]
+[list]
+[*]Updated for MtG and HoI IV version 1.6.0. Remember MNM will likely still be compatible with future updates even if it may say it's outdated (beyond 1.6.*).
+
+[*]The added AI willingness to remove influences toned down to half (from 10 to 5) if they have any influence ideas on them, due to many being timed (and thus not as important to remove for the AI). Any willingness to remove influences from this and/or from being a subject is also further modified by a factor of 0.5 (halved) if historical mode is activated.[/list]
+
+
+
+[b]Other[/b]
+[list]
+[*]Updated description a bit.
+
+[*]Updated mod tags, "Fixes" changed to "Balance" now that the game no longer has serious gameplay issues due to endless political influences (with the 1.6.0 update, and partially some earlier updates, Paradox made many of the endless political influences timed). MNM's decisions can still remove timed influences though, so if you want, you still have the option of cutting them short.[/list]
+
+
