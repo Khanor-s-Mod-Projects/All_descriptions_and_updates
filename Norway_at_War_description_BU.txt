@@ -1,27 +1,33 @@
-[h1]Norway at War, a Norwegian Focus and Flavor mod[/h1] - Version 1.3.6a (1.10.* Collie compatible)
+[h1]Norway at War, a Norwegian Focus and Flavor mod[/h1] - Version 1.4.1 (1.11.* Barbarossa/No Step Back compatible)
 
 Norway at War is a mod which aims to create a fun and historical focus tree for Norway, while still providing choices for taking alternate paths if one so desires. It should be a mod filled with choices and flavor texts based on history, as well as crisp, descriptive localisations (or so I hope).
 
-Recommended graphics mod: [url=http://steamcommunity.com/sharedfiles/filedetails/?id=924382320]Small Arms & Uniforms[/url] OR [url=http://steamcommunity.com/sharedfiles/filedetails/?id=739173012]Unique Infantry Equipment[/url]
-Recommended music mod: [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1257365176]Norwegian Music Collection[/url]
+Recommended graphics mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=924382320]Small Arms & Uniforms[/url] OR [url=https://steamcommunity.com/sharedfiles/filedetails/?id=739173012]Unique Infantry Equipment[/url]
+Recommended music mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1257365176]Norwegian Music Collection[/url]
+Chinese Translation: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2242979169]Norway at War, a focus and flavor mod CN[/url]
+
+Largely integrated into R56 since 2019 (and to a lesser extent before that): [url=https://steamcommunity.com/sharedfiles/filedetails/?id=820260968]The Road to 56[/url]
+It is an honor. In a mutually beneficial agreement since November 2020 there will now be a two way exchange of features and assets, so enjoy the improvements everyone :)
 
 
 
 [b]Credits to those that helped me[/b]
 
 - Thanks to [i]Perhj[/i] for the base focus tree, unique trait, advisors, and more,
- from his [url=http://steamcommunity.com/sharedfiles/filedetails/?id=920674446]Norwegian focus tree mod[/url], which I eventually got involved in helping develop myself. Needless to say, without getting motivated by what I then called "the best Norwegian focus tree mod", this mod wouldn't have happened.
-With Perhj's blessing I got to making a fuller version of his mod, which became this mod. Don't be surprised to see features from NaW be brought back to Perhj's mod in time if we work on that one.
+ from his [url=https://steamcommunity.com/sharedfiles/filedetails/?id=920674446]Norwegian focus tree mod[/url], which I eventually got involved in helping develop myself. Needless to say, without getting motivated by what I then called "the best Norwegian focus tree mod", this mod wouldn't have happened.
+With Perhj's blessing I got to making a fuller version of his mod, which became this mod.
 
-- I'd also like to thank [i]Rjohansen[/i] on the Paradox forums for allowing me and Perhj to use his Carl Gustav Fleischer portrait and his Otto Ruge portrait (original for this mod!), which provides needed visual flavor to the mod.
+- I'd also like to thank [i]Rjohansen[/i] on the Paradox forums who made the first Carl Gustav Fleischer portrait, which provided needed visual flavor to the mod.
 
-- Most non-base game political leader portraits, the national spirit portrait of King Haakon VII, and the portrait of lieutenant general Kristian Laake, are by the talented [i]Zittrich[/i]. With this all ideologies have unique leader portraits!
+- Most non-base game political leader portraits, a national spirit portrait of King Haakon VII, and a portrait of lieutenant general Kristian Laake, are by the talented [i]Zittrich[/i]. With this all ideologies have unique leader portraits!
 
-- Norsk Hydro company logo by [i]Thinking_waffle[/i].
+- Norsk Hydro company logo and generic 3D plane meshes with Norwegian roundels by [i]Thinking_waffle[/i].
 
-- Thanks to the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1521695605]Kaiserreich[/url] team which allowed me to use their population information for two new states, as well as 13 leader portraits, 9 designer logos and 5 focus icons.
+- The R56-team: For their many, many new quality portraits, advisor pictures and focus icons, and few code-snippets for my use (e.g. tech sharing invites.)
 
-- And thanks to [i]Nonjojålol[/i] behind the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=700737273]Norway Improved mod[/url], who led me to Rjohansen and allowed me to use all features from his old mod. Norway now starts with transport tech, but only has basic weapons in production (representing the quite fantastic for its time, but nevertheless old by the time, Krag-Jørgensen M/1894, which was a service rifle of Norway, Denmark and the United States at the same time at one point). [i]Nonjojålol[/i] is also one of the prime researchers for the mod as of NaW 1.3.3.
+- Thanks to the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1521695605]Kaiserreich[/url] team which allowed me to use their population information for two new states, as well as 13 leader portraits, 9 designer logos and 5 focus icons.
+
+- And thanks to [i]Nonjojålol[/i] behind the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=700737273]Norway Improved mod[/url], who led me to Rjohansen and allowed me to use all features from his old mod. Norway now starts with transport tech and has historical artillery and anti-air. Flavor mods for the famous Krag-Jørgensen M/1894 (which was a service rifle of Norway, Denmark and the United States at the same time at one point) are recommended. [i]Nonjojålol[/i] is also one of the prime researchers for the mod as of NaW 1.3.3.
 
 
 
@@ -29,19 +35,19 @@ With Perhj's blessing I got to making a fuller version of his mod, which became 
 [list]
 [*]An expansive, historical and fun focus tree for Norway, with plenty of interesting choices to make.
 
-[*]More than 100 (!) unique events, many with several options to choose from, including news events.
+[*]Now with more than 200(!) unique events, many with several options to choose from, including news events.
 
 [*]Flavor texts with translations for those interested in Norwegian history, references for the cultured, jokes and puns for the fun loving, and crisp grammar and language for the [strike]grammar nazis[/strike] language connoisseurs.
 
-[*]Rebalanced states to allow Norway to industrialize rapidly in the period like in real life (Vestlandet buffed with one extra initial building slot) and the Faroe islands are now categorized as "small island" which lets you add one or two factories to them. Three Finnish states (Salla, Pohjanmaa and Karelia) have also been buffed. Five new states, among them Båhuslen and Jamtland, have been added, and Norway can get its hands on one or more through some very shrewd diplomatic deals, or by going revisionist.
+[*]Rebalanced states to allow Norway to industrialize rapidly in the period like in real life (Vestlandet buffed with one extra initial building slot) and the Faroe islands are now categorized as "small island" which lets you add one or two factories to them. Three Finnish states (Salla, Pohjanmaa and Karelia) have also been buffed. Six new states, among them Båhuslen and Jamtland, have been added, and Norway can get its hands on one or more through some very shrewd diplomatic deals, or by going revisionist.
 
-[*]Added additional cities and victory points to the Nordics (some of which have later been added by Paradox themselves!) Also increased the VP value of Bergen and Trondheim as they were the second and third largest Norwegian cities of the time, and to mark them as more important than the 1 and 3 VP cities added (now they are 5 VPs each). There are now 18 new cities!
+[*]This mod has added 19 additional cities/victory points to the Nordics over time (some of which was later added by Paradox themselves!) Still, many NaW/R56 unique VPs remain unadded to the base game to this day. Also increased the VP value of Bergen and Trondheim as they were the second and third largest Norwegian cities of the time, and to mark them as more important than the 1 and 3 VP cities added (now they are 5 VPs each.)
 
-[*]Crisp portraits made by the talented Rjohansen, including some originals for this and Perhj's mod! Other than that the focus tree has been designed with visuals in mind, and the icons are varied and interesting to look at, and they give a hint to what the focus entails.
+[*]Crisp portraits made by the R56-team, the above credited individuals, and more. Also worth mentioning is that the focus tree has been designed with visuals in mind, and the icons are varied and interesting to look at, and they give a hint to what the focus entails.
 
 [*]Descriptive tooltips detailing how the more unique focuses work. No longer do you have to access the code to know how AI countries will react to your invitation to your faction or your demands for land, now the description tells you how to make it more likely or even guarantee acceptance!
 
-[*]Added new leaders and rebalanced their skillsets and traits, justified by historical events. Norway now starts with two field marshals, 14 generals and four admirals.
+[*]Added new leaders and rebalanced their skillsets and traits, justified by historical events. Norway now starts with three field marshals, 9 generals and four admirals. Four more generals can be unlocked by focus later.
 
 [*]The first Norway mod to include an event for the historical election cycle change in 1938, making Norwegian parliamentary elections happen every four years (like today) instead of every three years like before 1938. Your Nordic neighbors may also be informed of this by an event, which may or may not contain a Futurama reference if you have the correct Government type and/or idea.
 
@@ -49,7 +55,7 @@ With Perhj's blessing I got to making a fuller version of his mod, which became 
 
 [*]Compatibility for every DLC, no DLC vanilla (yes, I even added alternate bonuses for the tech sharing focuses if you don't have TfV), and most graphic mods.
 
-[*]Massive localisation additions, including leader descriptions for every poltiical leader, names for every surface ship, names for every tank and tank variant, new cities, updated state names, etc.
+[*]Massive localisation additions, including leader descriptions for every political leader, names for every surface ship, names for every tank and tank variant, new cities, updated state names, etc.
 
 [*]A myriad of decisions.
 
@@ -90,13 +96,7 @@ A: As of version 1.3.0 all the Finland (history and idea) changes are gone (for 
 
 [b]Trivia, extra credits and other[/b]
 [list]
-[*]Pictures for the mod and mod display picture from [url=https://snl.no/]snl.no[/url] and wikipedia. Chronology of the display picture goes lower left (neutrality guard), lower right (Terboven in occupied Norway), upper left (Norwegian convoy to Murmansk), upper right ([i]the[/i] Liberation Day).
-
-[*]About the unique Norwegian letters, æ, ø and å:
-
-- First of all, they've not been used in anything other than localisation, because I don't want players to crash or otherwise face issues.
-
-- For those non-Norwegians who really want to immerse themselves in (or stream) this mod, this is how they're pronounced: "æ" = "e" in "end", "ø" = "u" in "under", "å"/ "aa" = "o" in "on". Then how do you pronounce Norwegian "a" and "o" you ask? Norwegian "a" = "a" in "khan" (Genghis Khan), Norwegian "o" = the second half of the English interjection "oh", but there's very many exceptions where it's pronounced like "å".[/list]
+[*]Pictures for the mod and mod display picture from [url=https://snl.no/]snl.no[/url] and wikipedia. Chronology of the display picture goes lower left (neutrality guard), lower right (Terboven in occupied Norway), upper left (Norwegian convoy to Murmansk), upper right ([i]the[/i] Liberation Day).[/list]
 
 
 

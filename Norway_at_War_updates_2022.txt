@@ -1,0 +1,74 @@
+11.01.2022
+Version 1.4.1 - Large feature update and polish, Railroad Development, tech sharing and more (1.11.* Barbarossa compatible)
+
+[b]Content[/b]
+[list]
+[*]Added new traits, especially personality traits, to some Norwegian commanders to be more fair with them. Now every commander has some starting traits at least.
+
+[*]Jacob Ager Laurantzon now starts as a field marshal rather than a general to represent his high rank and seniority.
+
+[*]Reworked "Marinens Hovedverft" to incorporate some of the historical torpedo and torpedo patrol boat priorities they had at the time. Also added some decent submarine bonuses, so it now has a general-purpose coastal defense feel to it. Reduced the surface visibility bonus on cruisers/screens a bit to compensate for their attack buffs.
+
+[*]Added a new decision category, "Railroad Development" with about 17 decisions which may be available depending on circumstances. These become available after the first railroad focus, and are integrated with both focuses. It counts your overall railroad development, and new projects and (state) benefits become available at higher levels. They cost a lot of industry, but you can build, improve, re-gauge, electrify and railroads, in decisions that can be historical, plausible and/or ahistorical. Some plausible ones arguably should have been historical.
+
+[*]Added two new dynamic modifiers for states that go with the "Railroad Development"-decisions.
+
+[*]Added new technology sharing group for the monarchist path, enabled through decisions after some political focuses. These have their own events, effects, decisions for improving the facilities and decisions for inviting even more members after the initial creation.
+
+[*]Added a few cooperation decisions with Iceland for them in the same faction and/or a subject state of Norway. Also added a new news event related to one of these.
+
+[*]Added two new event pictures, one news event and one standard event.
+
+[*]Added two new opinion modifiers used in some of the new decisions/events.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Added localisation for all new additions, such as events.
+
+[*]Switched the localisation between the reintegration of Jamtland and Båhuslen, which was the wrong way around for the flavor text (though effects worked as intended.) These should now be less confusing.
+
+[*]Renamed starting VP in Båhulsen/Bohuslän, was Marstrand, is now Uddevalla which is far bigger and more important, especially economically. This outweighs the VP localisation within the province by a lot. As long as the VP is within the correct province, I find it acceptable.
+
+[*]Fixed and improved spelling, tag-targeters in the localisation, word use, punctuation-/parenthesis use and made more liberal use of the often superior to TAG.GetName, ROOT.GetName and FROM.GetName where sensible.
+
+[*]Added unique subject name for non-aligned Finland as subject of non-aligned Norway, somewhat inspired by EU IV and the geographic situation.
+
+[*]Further improved readability of focuses through better formatting and further improved tooltips. Also tided up the readability of the "Ski Infantry"-unique tech when it's mentioned.
+
+[*]Tidied up file formatting and in-file comments.
+
+[*]Renamed a couple of focuses and ideas, both their names, and in some cases their ID. NaW should have a more concise focus-/idea-naming system now. If stuck with seeming duplicates upon loading save it can be fixed with console commands and maybe debug-mode if needed. You may ask me for help if needed.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Reworked priorities for decision categories.
+
+[*]Reworked the old naval idea line, now less destroyer (production) spam, and instead gave them some max speed improvements to represent the modern Norwegian Merchant fleet at the time: Convoy Production cost -25% --> -10%, Convoy Max Speed +0% --> +10%.
+
+[*]The late game idea for monarchist Norway, "Preserving the Kingdom" now still lets you send volunteers without a huge army, and to continue its defensive nature, we now have 20% reduced damage to garrisons in it too.
+
+[*]Tanks will never be the strength of Norway in this mod, we're sticking with simply a generic designer. But according to the flavor text on "Thunes Mekaniske Verksted", I figured a 5% production bonus to trains for flavor reasons was alright. If wanting super strong tanks, license production from major countries may be the go to solution.
+
+[*]Naval industry for Western Norway in the Nortraship-/Naval Production-focus line now moved one focus down. Requirements have also been reworked on both relevant focuses.
+
+[*]Focus idea-giving/combining in the Naval Production-line should now be more readable.
+
+[*]Improved focus search filters further.
+
+[*]All Norwegian technology sharing groups now somewhat more limited in base membership availability, though being in faction with Norway or a subject of them will always be enough. Also reworked the tech sharing picture to the one with the crown both for the Allied path and the Royal Norwegian Society used in the monarchist path, for more visual variation and topical visuals.
+
+[*]Massively improved the old technology sharing events for the Nordic, Allied, German and Soviet technology sharing groups. Now much more sensible targets/effects, use of FROM/ROOT rather than specified tags and updating to the Allied research, German research and Soviet research from the old functions which added you to the existing Commonwealth, Axis and/or Comintern research groups. Now those are totally removed, and a unique cooperative between Norway and the other major power is always used instead.
+
+[*]Fixed radar location in Vestlandet, Sørlandet and Jamtland, so it's centered on the radar effect location. Tweaked supply node graphic in a province in Sørlandet to make room for it.
+
+[*]Moved the airport/airbase in Østlandet to the location of Fornebu Airport, Norway's main airport from 1939 until many decades later, e.g. the south-western part of the capital province of Oslo in-game.
+
+[*]General improvement of building graphic placements in Østlandet for coastal buildings and the fuel silo, in addition to the airport location and graphics. Now the naval bases, dockyard and coastal forts should provide one of the better mixes of historical and "nice to look at" possible.
+
+[*]Added in one of the earlier Otto Ruge portaits used, as in R56 Otto Ruge had accidentally been using Carl Johan Erichsen's portrait for a while. Carl Johan Erichsen now instead got his new updated portrait, while Otto Ruge got his.[/list]
+
+

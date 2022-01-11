@@ -1,0 +1,174 @@
+17.12.2021
+Version 1.4.0 - Large Barbarossa/No Step Back update, with catch up to the R56-version, features and polish (1.11.* Barbarossa compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated all files for 1.11.* Barbarossa/No Step Back.
+
+[*]Integrated graphics and features to catch up to the R56-version the R56-team and I have been working on.
+
+[*]Created a character file, ported information over, set everything up properly and polished it to the max.
+
+[*]Additions, improvements and new stuff to the focus-, idea- and decisions-files. Five new focuses, two new endgame ideas and integrated historical railroad improvments into relevant focuses are some of the highlights.
+
+[*]Updated the bookmark-files with the newest Barbarossa/NSB additions.
+
+[*]Tons of event work, now the event chain for combining the Nordic and Baltic factions should be solidly written, handling most realistic and semi-realistic situations.
+
+[*]The Moscow Trials-event now also have updated checks to trigger to account for the new Soviet focus tree.
+
+[*]Sorted out the flags once and for all.
+
+[*]Created another "nor"-country folder in both gfx/interface/goals/... and gfx/interface/ideas/... and moved focuses/goals and ideas into those like this mod's files in R56 to ensure smoother work between both mods. With enough changes like this, updates and work between the mods should happen both faster and smoother over time.
+
+[*]Interface-file graphical paths updated to reflect the above asset movement.
+
+[*]State and map updates.
+
+[*]Edited files in map/supplyareas, and the supplyareas-folder itself, now deleted as they were no longer needed after the supply system overhaul that came with Barbarossa/NSB.
+
+[*]Small file formatting improvements and cleanup.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]General localisation work, with additions for all the new contents added.
+
+[*]Basic loc moved to replacement loc where duplication with the base game made it not show up.
+
+[*]Better word choices and more punctuation in existing loc where needed/desired.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]The unique Norwegian tactic now gets increased trigger chance for cavalry leader too, like the infantry leader already had, since the in-game cavalry essentially fights very much like infantry (dismounting then fighting like infantry.) The tactic now also reduce the damage of enemy attackers a bit more too, to make it feel a bit more worthwhile than many (but not all) of the current (HoI IV) base game's tactics. It's now also countered by the Encirclement tactic rather than Well-Planned Attack. Now bringing a full front, reserves and a good/fitting commander are actions that can be taken to counter/negate the advantageous tactic, rather than the more one-dimensional counter of picking Grand Battle Plan doctrine and hoping for the best like before.
+
+[*]Re-added the base game cosmetic-file to ensure NaW's added cosmetic tag works again. The standalone file like before turned out to be unreliable, so re-adding a modified base game file seemed the best for now.
+
+[*]Fixed 1939 history-file's specification of finished focuses for Norway at that point by updating the focuses to the new names added for an earlier patch for R56 and NaW.
+
+[*]Tweaked files and added graphical assets to ensure the generic planes with Norwegian roundels work properly in this version as well.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+18.12.2021
+Version 1.4.0a - Small graphical update, added focus shines to fix glitches, new crisp focus icons and other small improvements (1.11.* Barbarossa compatible)
+
+[b]Content[/b]
+[list]
+[*]Added several new focus icons. In use now: A new Army-, Navy- and Air Force Coat of Arms, with a much more crisp, shaded and detailed look, compared to the old similar ones.
+
+[*]The non-aligned Norway flags (both large and medium) have been polished to look nicer, especially now that they're due to be ported to R56 as well.
+
+[*]Changed Alfred Roscher Lund's advisor portrait to be more accurate, and fixed the spelling of his name.
+
+[*]Renamed old country leader trait file and added a new one for traits imported from R56.
+
+[*]Ported Liberal Grandee trait from R56 so country leaders don't have less traits in NaW in comparison.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Localisation additions for a new tech bonus and imported R56 trait added.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Added an interface_shine-file, so focus graphics should no longer occasionally glitch away.
+
+[*]Cleaned up naming in the interface files so the mod's easier to update and improve in the future. Also renamed some focus/goal graphical assets.
+
+[*]Changed complete_effect to remove_effect in one of the new 1.4.0-decisions added.
+
+[*]Removed early ahead of time bonuses for air techs, now they come later instead, where it makes more sense to have them.
+
+[*]Added a few new ahead of time bonuses for certain research boosts, most importantly on Norway's one nuclear tech boost, so now it's useful for rushing one nuclear tech at least.
+
+[*]Tweaked the "Resurrect Norsk Aeroplanfabrik" focus to now give potential research bonuses to bomber planes in general (CAS, NAV and tactical) rather than just CAS.
+
+[*]Light file formatting cleanup.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+28.12.2021
+Version 1.4.0b - Character and advisor additions/improvements, tooltip and flavor update (1.11.* Barbarossa compatible)
+
+[b]Content[/b]
+[list]
+[*]Added three new characters with political advisor roles, so historical ones with AI logic and requirements for use can take the place of random generic ones given by the game at start.
+
+[*]Tried to handle widespread character loss, especially advisor loss, on a civil war for Norway. Now should at least keep the two bread and butter Field Marshals/Army Chiefs and some focus given Corps Commanders in every case/almost every case.
+
+[*]Reworked many focus tooltips regarding political advisors, added in direct links to the advisors themselves in these cases before the reworked NaW tooltips with additional information. Now things are in line with vanilla HoI IV, very clean and nice, and comes with generally all relevant information.
+
+[*]Improved graphics use and AI logic on other characters/advisors.
+
+[*]New company idea IDs so they all follow the same scheme for IDs, with country tag first.
+
+[*]Added 12 plausible Norwegian agent names from R56 to NaW too, and added 14 additional historical ones before those, inspired by cover names for (Norwegian) agents working for XU, Milorg and/or SOE during the Second World War. With the La Résistance DLC and an agent you will see these in use from now on.
+
+[*]Added four new unit name lists, Cavalry Regiment (starting list, also in use at the start), Jäger Division (unlocked by focus), Monarchist Infantry Divisions and Monarchist Mobile Divisions (both unlocked by focus, and ideology-dependent.)
+
+[*]Some new name lists used by starting templates/units or units given through focuses. Cleaned up starting unit history files.
+
+[*]Improved focus search filters to be even more accurate and helpful.
+
+[*]Added a new VP/city to Vestlandet, Haugesund.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Rewrote some older NaW focus tooltips to fit with the base game advisor unlocking tooltips now added to certain places in the focus tree for clarity.
+
+[*]Improved focus localisation and character localisation.
+
+[*]Moved a VP to replace loc file and removed redundant/unused tooltip.
+
+[*]Renamed the loc files themselves.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Shortened some focuses to give the player and AI Norway some breathing room to get things done: Coastal Defense Specialization 105 days --> 70 days, Modern Escort Ships 70 days --> 35 days, Mountaineers 70 days --> 35 days and District Investments 70 days --> 35 days.
+
+[*]District Investments' bonus for dispersed industry technologies can now also be used for excavation techs, so it's not completely wasted if deciding to go for concentrated industry.
+
+[*]Railway from Østlandet to Vestlandet ("Raumabanen") given to Norway through "De norske Statsbaner"-focus now also level two like the minimum of all other Norwegian railways after the two railway focuses. It was quite modern, and not of bad quality.
+
+[*]Fixed bug where cascading effects could instantly remove Aftermath of the Great Depression, rather than in several steps as intended.
+
+[*]Cleaned up commanders given by focuses potentially being given to both sides during civil wars. Tried to ensure they're now only given to one side if in a civil war (that side being the player/NOR-tag.)
+
+[*]Focus file cleanup, more use of base (ai_will_do), effect sorting, etc.
+
+[*]Now the late game "Specialized Naval Industry"-ideas no longer retain the consumer goods buff from the "Encouraged Fishing"-idea, since they already carry other powerful (and specialized) bonuses.
+
+[*]Rebalanced "National Collectivism"- and "Socialist Collectivism"-ideas. Now no pop growth, general building speed and ideology drift, but extra resources, production retention and infrastructure building speed instead. Should be less awkward if in faction with or a subject of other ideologies. The relevant focuses now also give timed generic fascist-/communist drift ideas instead.
+
+[*]Fixed event province targeting for Orkney, now uses the correct province rather than the R56-addition that doesn't exist in the base game.
+
+[*]Removed double country leader entry on the event for who shall lead the monarchist coalition after the civil war.
+
+[*]VP/city renaming event made better for one option.
+
+[*]Added a touch of political power to each side in the Norwegian Monarchist Civil War to get them started, especially important now that a civil war dragging out will really cripple non-aligned/monarchist Norway's political power gain due to the new country leader added.
+
+[*]Moved an airbase in Norrland to where it was supposed to be. Added supply nodes (supply node graphics) to some states that hadn't been given such yet.
+
+[*]Better descriptor-file handling.
+
+
