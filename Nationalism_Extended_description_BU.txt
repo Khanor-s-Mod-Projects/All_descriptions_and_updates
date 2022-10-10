@@ -1,9 +1,9 @@
 [h1]Nationalism Extended, a generic focus and decision mod[/h1]
-- Version 1.3.1 (1.10.* Collie compatible)
+- Version 1.3.2a (1.11.* Barbarossa/No Step Back compatible)
 
 [b]Features and compatibility[/b]
 
-[i]Features:[/i] Tag unique, historical claims/cores for most nations, generic focus tree additions, POL/HUN focus tree buffs (with tweaks to ITA's tree) and POL/HUN/YUG idea buffs, new ideas, and new decisions.
+[i]Features:[/i] Tag unique, historical claims/cores for most nations, generic focus tree additions, HUN focus tree buffs (with tweaks to ITA's tree) and POL/HUN/YUG idea buffs, new ideas, and new decisions.
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1410863725]"Meddle No More!"[/url] has been integrated into the mod, too.
 
 [i]Fixes:[/i] AI, focuses, events, readability.
@@ -29,7 +29,7 @@ Compatible with Mr Tsubodai's [url=https://steamcommunity.com/sharedfiles/filede
 
 Nationalism Extended (NE) is first and foremost a modification of the generic focus tree, mainly with its namesake function of granting tag unique, historical claims, cores and/or puppet wargoals through unlocking either "Nationalism" or "Internationalism" in the generic focus tree, or through certain decisions. This comes in addition to starter claims/cores Paradox have already graced certain nations with. Now you can really restore a minor nation to its former historical glory.
 
-In addition the generic tree has recieved a significant buff through better focuses, shortening of the time some of them take, and lastly 6 brand new political focuses and 5 other focuses (some locked behind technologies). A goal of mine is making every focus interesting in itself, rather than just a path to other goodies. Though still, the lower/harder to reach focuses are meant to be the cream of the crop.
+In addition the generic tree has recieved a significant buff through better focuses, shortening of the time some of them take, and lastly 6 brand new political focuses and 5 other focuses (some locked behind technologies.) A goal of mine is making every focus interesting in itself, rather than just a path to other goodies. Though still, the lower/harder to reach focuses are meant to be the cream of the crop.
 
 
 
@@ -43,7 +43,7 @@ Communism and especially the different forms of Fascism, however, saw open warfa
 
 [i]Which countries have significant amounts of new gameplay?[/i]
 
-All generic focus tree users and Hungary/Austria-Hungary especially, and there are also smaller amounts of buffs and/or flexibility with focuses and decisions for Poland, Yugoslavia and a lot of other countries that have received land reintegration decisions to gain some extra cores. Switching to a non-aligned/traditional government has also been made possible with decisions (though it can be hard). Many generic ideas have been significantly buffed/tweaked too.
+All generic focus tree users and Hungary/Austria-Hungary especially, and there are also smaller amounts of buffs and/or flexibility with focuses and/or decisions for Poland, Yugoslavia and a lot of other countries that have received land reintegration decisions to gain some extra cores. Switching to a non-aligned/traditional government has also been made possible with decisions (though it can be hard.) Many generic ideas have been significantly buffed/tweaked too.
 
 
 
@@ -60,9 +60,9 @@ Albania, Argentina, Armenia, Australia, Austria, Azerbaijan, Belgium, Bhutan, Bo
 
 - Buffs and balancing for the minor tree and 6 brand new focuses. Buffs include PP, factories (1 arms, 1 naval, 2 oil refineries + 4 building slots), production modifiers, more manpower and research bonuses. Manpower for fascists has gone from 7% to 8%, while all other paths have received a hard buff from 0% to 6%. Nations going the "liberty path" can also justify wargoals at a lower WT through political focuses now.
 
-- Buffs to the Polish and Hungarian focus trees. Many ideas have been added and buffed throughout their trees, and they now provide more manpower, better industrial bonuses, and/or new cores/claims. The Hungarian tree even has 5 new focuses.
+- Buffs to the Hungarian focus tree. Many ideas have been added and buffed throughout their trees, and they now provide more manpower, better industrial bonuses, and/or new cores/claims. The Hungarian tree even has 5 new focuses.
 
-- While fascists still have the highest base manpower bonus, communists get extra non-core manpower, traditionalists get mobilization speed, and democrats get extra recruitable population factor (representing people scrambling to defend democracy when needed at higher conscription laws).
+- While fascists still have the highest base manpower bonus, communists get extra non-core manpower, traditionalists get mobilization speed, and democrats get extra recruitable population factor (representing people scrambling to defend democracy when needed at higher conscription laws.)
 
 - Slightly more active AI minors. Chances of them going collectivist have been increased a tad.
 

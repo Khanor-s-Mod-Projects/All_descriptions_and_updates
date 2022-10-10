@@ -1,4 +1,4 @@
-[h1]Norway at War, a Norwegian Focus and Flavor mod[/h1] - Version 1.4.1 (1.11.* Barbarossa/No Step Back compatible)
+[h1]Norway at War, a Norwegian Focus and Flavor mod[/h1] - Version 1.4.2a (1.12.* By Blood Alone/Avalanche compatible)
 
 Norway at War is a mod which aims to create a fun and historical focus tree for Norway, while still providing choices for taking alternate paths if one so desires. It should be a mod filled with choices and flavor texts based on history, as well as crisp, descriptive localisations (or so I hope).
 
@@ -23,7 +23,7 @@ With Perhj's blessing I got to making a fuller version of his mod, which became 
 
 - Norsk Hydro company logo and generic 3D plane meshes with Norwegian roundels by [i]Thinking_waffle[/i].
 
-- The R56-team: For their many, many new quality portraits, advisor pictures and focus icons, and few code-snippets for my use (e.g. tech sharing invites.)
+- The R56-team: For their many, many new quality portraits, advisor pictures and focus icons, and a few code-snippets for my use (e.g. tech sharing invites.)
 
 - Thanks to the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1521695605]Kaiserreich[/url] team which allowed me to use their population information for two new states, as well as 13 leader portraits, 9 designer logos and 5 focus icons.
 
@@ -49,7 +49,7 @@ With Perhj's blessing I got to making a fuller version of his mod, which became 
 
 [*]Added new leaders and rebalanced their skillsets and traits, justified by historical events. Norway now starts with three field marshals, 9 generals and four admirals. Four more generals can be unlocked by focus later.
 
-[*]The first Norway mod to include an event for the historical election cycle change in 1938, making Norwegian parliamentary elections happen every four years (like today) instead of every three years like before 1938. Your Nordic neighbors may also be informed of this by an event, which may or may not contain a Futurama reference if you have the correct Government type and/or idea.
+[*]The first Norway mod to include an event for the historical election cycle change in 1938, making Norwegian parliamentary elections happen every four years (like today) instead of every three years like before 1938. Your Nordic neighbors may also be informed of this by an event, which may or may not contain a Futurama reference if they have the correct Government type and/or idea.
 
 [*]New political adviors, theorists, etc. with flavor texts. These are mostly Perhj's work, so credit goes to him here.
 

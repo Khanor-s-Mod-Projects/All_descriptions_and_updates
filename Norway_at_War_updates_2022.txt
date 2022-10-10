@@ -9,7 +9,7 @@ Version 1.4.1 - Large feature update and polish, Railroad Development, tech shar
 
 [*]Reworked "Marinens Hovedverft" to incorporate some of the historical torpedo and torpedo patrol boat priorities they had at the time. Also added some decent submarine bonuses, so it now has a general-purpose coastal defense feel to it. Reduced the surface visibility bonus on cruisers/screens a bit to compensate for their attack buffs.
 
-[*]Added a new decision category, "Railroad Development" with about 17 decisions which may be available depending on circumstances. These become available after the first railroad focus, and are integrated with both focuses. It counts your overall railroad development, and new projects and (state) benefits become available at higher levels. They cost a lot of industry, but you can build, improve, re-gauge, electrify and railroads, in decisions that can be historical, plausible and/or ahistorical. Some plausible ones arguably should have been historical.
+[*]Added a new decision category, "Railroad Development" with about 17 decisions which may be available depending on circumstances. These become available after the first railroad focus, and are integrated with both focuses. It counts your overall railroad development, and new projects and (state) benefits become available at higher levels. They cost a lot of industry, but you can build, improve, re-gauge, electrify and extend railroads, in decisions that can be historical, plausible and/or ahistorical. Some plausible ones arguably should have been historical.
 
 [*]Added two new dynamic modifiers for states that go with the "Railroad Development"-decisions.
 
@@ -29,7 +29,7 @@ Version 1.4.1 - Large feature update and polish, Railroad Development, tech shar
 
 [*]Switched the localisation between the reintegration of Jamtland and Båhuslen, which was the wrong way around for the flavor text (though effects worked as intended.) These should now be less confusing.
 
-[*]Renamed starting VP in Båhulsen/Bohuslän, was Marstrand, is now Uddevalla which is far bigger and more important, especially economically. This outweighs the VP localisation within the province by a lot. As long as the VP is within the correct province, I find it acceptable.
+[*]Renamed starting VP in Båhulsen/Bohuslän, was Marstrand, is now Uddevalla which is far bigger and more important, especially economically. This outweighs the VP's location within the province by a lot. As long as the VP is within the correct province, I find it acceptable.
 
 [*]Fixed and improved spelling, tag-targeters in the localisation, word use, punctuation-/parenthesis use and made more liberal use of the often superior to TAG.GetName, ROOT.GetName and FROM.GetName where sensible.
 
@@ -47,7 +47,9 @@ Version 1.4.1 - Large feature update and polish, Railroad Development, tech shar
 [list]
 [*]Reworked priorities for decision categories.
 
-[*]Reworked the old naval idea line, now less destroyer (production) spam, and instead gave them some max speed improvements to represent the modern Norwegian Merchant fleet at the time: Convoy Production cost -25% --> -10%, Convoy Max Speed +0% --> +10%.
+[*]The "Armed Neutrality"-decisions which petition major powers for an alliance now send the request-event even faster to make them more useful (as opposed to just trying to join factions by waiting for an invite from a major power like the United Kingdom.) Events asking to join their faction are now sent in just three hours instead of six hours like earlier.
+
+[*]Reworked the old naval idea line, now less convoy (production) spam, and instead gave them some max speed improvements to represent the modern Norwegian Merchant fleet at the time: Convoy Production cost -25% --> -10%, Convoy Max Speed +0% --> +10%.
 
 [*]The late game idea for monarchist Norway, "Preserving the Kingdom" now still lets you send volunteers without a huge army, and to continue its defensive nature, we now have 20% reduced damage to garrisons in it too.
 
@@ -70,5 +72,143 @@ Version 1.4.1 - Large feature update and polish, Railroad Development, tech shar
 [*]General improvement of building graphic placements in Østlandet for coastal buildings and the fuel silo, in addition to the airport location and graphics. Now the naval bases, dockyard and coastal forts should provide one of the better mixes of historical and "nice to look at" possible.
 
 [*]Added in one of the earlier Otto Ruge portaits used, as in R56 Otto Ruge had accidentally been using Carl Johan Erichsen's portrait for a while. Carl Johan Erichsen now instead got his new updated portrait, while Otto Ruge got his.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+07.02.2022
+Version 1.4.1a - Moderately large feature and polishing update, Nortraship events and many small improvements (1.11.* Barbarossa compatible)
+
+[b]Content[/b]
+[list]
+[*]Autonomy reduction effects added to railroad decisions for improving/electrifying railroads in certain subjects.
+
+[*]The new state highlighting system for decisions is now in, so states should once again be highlighted when hoovering over decisions and the decisions can be taken on the map as well.
+
+[*]Added some basic repair speed, refit cost, refit speed and/or naval equipment experience cost modifiers/buffs to the Norwegian Ship Designer choices.
+
+[*]Four Nortraship related events have been added, with new event pictures and triggers through the focus tree integrated. There is one standard event upon establishing the trade mission/ship administration, and different news events on historical merchant fleet coordination with the United Kingdom, merchant fleet coordination with Germany if the UK attacks you first and forces you to side with Germany, and lastly one for coordinating with Germany after aligning with them by choice through the focus tree.
+
+[*]New introductory event to the Armed Neutrality focus with light effects inserted before the existing news events about this and eventual violations of said neutrality. Also includes new event pictures and the possibility for the Armed Neutrality event through the neutral focus in the monarchist branch as well.
+
+[*]The historical Armed Neutrality focus now also raises your economic mobilisation laws by one level for free if you're in one of the two lower economic mobilisation laws. In conjunction with the earlier buff to decision effect speed for seeking alliances, as well as the current increased flavor, this should make the truly historical path more eniticing to pick.
+
+[*]Added three new news event pictures and four new standard event pictures. Most of them are now in use in old events and new events for this update.
+
+[*]Added new military advisor portrait/picture for Haakon VII.
+
+[*]Added a new military advisor portrait/picture for Otto Ruge.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]New localisation for new stuff, mainly new events and event descriptions.
+
+[*]Fixed/added the description of the news event for revising the Treaty of Kiel.
+
+[*]Continued work on adding base game advisor tooltips to relevant focuses, and used the old NaW tooltips for further clarification/details.
+
+[*]Slight addition to the Haakon VII abdicates event description.
+
+[*]Some fixes to targeted localisation and other improvements.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]State reintegration decisions can now also be taken with no resistance in the states, as an alternative to the earlier 20%+ compliance requirement. This should enable states with no cores of other countries for reintegration again as well.
+
+[*]Easter Egg country's land reintegration decision now targets another state which I found made more sense. Decision name and description also reworked.
+
+[*]Easter Egg country now has their characters recruited through their history file, like intended.
+
+[*]Iceland's potential "Norwegian Advisors"-idea now has one additional percent of recruitable population, to increase the significance of adding this to Iceland as a subject slightly. Also changed the icon used for the idea.
+
+[*]Reworked some old ideas and a focus into a new naming scheme/my intended naming scheme, should not affect saved games unless the "Establish Heimevernet" focus has been done, then "doublestacking the idea" may be possible. To avoid remove one of them with console commands after this has happened, or simply don't do the focus again.
+
+[*]Added ahead of time bonuses (1 year) to the research bonuses for light ship hulls/cruiser hulls in the "Modern Escort Ships" focus. Reduced existing ahead of time bonuses (2 years --> 1 year) in the research bonuses for the "Medium Aircraft" focus.
+
+[*]Eased up on requirements for the "A Beacon among Democracies" focus, and eased up on requirements for the fascist path in general so it's harder to get locked out of stuff due to other countries' choices.
+
+[*]More advisor tooltips in line with base game functionality.
+
+[*]More AI considerations for focuses.
+
+[*]Other slight focus cleanups.
+
+[*]More sensible event picture for the news event on revising the Treaty of Kiel.
+
+[*]Small interface reworks to make working with the custom graphical assets easier.
+
+[*]Destroyer procurements now show up in Stavanger instead of Kristiansand, which is a better compromise between the UK and Germany location wise.
+
+[*]Improved building/radar graphic placement in Båhuslen/Bohuslän state. Otherwise updated buildings file to be in line with the base game where the mod makes no edits (to remove the error that popped up recently.)[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+09.02.2022
+Version 1.4.1b - Minor localisation update, leader descriptions added again, other polish (1.11.* Barbarossa compatible)
+
+[b]Localisation[/b]
+[list]
+[*]Leader descriptions for all Norwegian country leaders are now in again after figuring out how to do it for the new character system. The old leader descriptions seen some versions ago can once again be read in-game. Also removed some redundant localisation to tidy up the localisation files.
+
+[*]Improved the "Changing Turmoil" (timed) idea's localisation/description.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+10.10.2022
+Version 1.4.2 - Update for By Blood Alone/Avalanche, small event, map and localisation improvements (1.12.* Avalanche compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated for the newest HoI IV version (1.12.* By Blood Alone/Avalanche compatible.) Some examples include integration of the new map and building graphics placements into the map-files, updates to the bookmark-files and corrected starting technologies.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]Improved and updated the localisation files. Imported some spelling improvements from R56, as well as improved some spelling and language on top of this. State numbers also updated.
+
+[*]Updated the bookmarks (1936 and 1939) to get the new bookmarks for Switzerland, Italy and Ethiopia, while also keeping NaW's Norway specific bookmark entries in place like before.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Improved the targeting of tag and tag-relational options in two events (e.g. GER and SOV should no longer have the wrong options selectable in some events they get.)
+
+[*]Removed now non-used and/or non-existant starting technologies for three country history files. Integrated all relevant checks for the BBA DLC to the history files.
+
+[*]Removed Air Force/Air Wings from the standard unit-files, so the newly added base game air unit-files (BBA or legacy) can handle that as intended.
+
+[*]Improved building graphics placements for radar stations, an air base, etc. in two Swedish states.
+
+[*]Renamed thumbnail image (and descriptor-file path) in an ongoing effort to standardize my mods, and to ensure it can be updated smoothly if the need arises in the future.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+11.10.2022
+Version 1.4.2a - Small hotfix to update the colors-file and cosmetic-file (1.12.* Avalanche compatible)
+
+[b]Balance and fixes[/b]
+[list]
+[*]Updated the colors-file and cosmetic-file in the common/countries-folder for Avalanche and its additions.[/list]
 
 

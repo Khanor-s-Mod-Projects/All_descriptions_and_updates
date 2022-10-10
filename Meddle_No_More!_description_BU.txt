@@ -1,6 +1,6 @@
 [h1]Meddle No More! (Removable foreign influences)
 A simple decision mod to retake control of your own politics[/h1]
-- Version 1.0.1b (1.6.0 MtG tested, but will likely be compatible with all future patches/DLCs)
+- Version 1.0.3 (1.11.* Barbarossa/No Step Back compatible, but will likely be compatible with all future patches/DLCs too!)
 
 
 
@@ -14,9 +14,9 @@ A simple decision mod to retake control of your own politics[/h1]
 
 [*]Decisions always enabled should you be under influence (one year cooldown), even if you're the same ideology, which is useful if you want to switch ideology yourself. On the other hand there's...
 
-[*]...Smart AI (having at least graduated Elementary School, I'd say). The AI will not pick the decisions should they be independent and of the same ideology. Why wouldn't a Government try to stay in power? And as of MNM 1.0.1 the AI also considers political focuses they've taken. Though AI France has been prevented from removing the "Communist Refugees" idea if they're independent, as that's important for gameplay reasons. If you puppet them and make them not be communist in the process they'll consider removing it however.
+[*]...Smart AI (having at least graduated Elementary School, I'd say.) The AI will not pick the decisions should they be independent and of the same ideology. Why wouldn't a Government try to stay in power? And as of MNM 1.0.1 the AI also considers political focuses they've taken. Though AI France has been prevented from removing the "Communist Refugees" idea if they're independent, as that's important for gameplay reasons. If you puppet them and make them not be communist in the process they'll consider removing it however.
 
-[*]Gameplay balance. Decisions cost quite a bit of poltical power due to how useful they can be, and they will also give you a temporary debuff to stability. Additional costs are subtracted per idea removed, but you also gain some base stability per idea removed (it's however somewhat rare to have more than one foreign poltical influence on your country at once).
+[*]Gameplay balance. Decisions cost quite a bit of poltical power due to how useful they can be, and they will also give you a temporary debuff to stability. Additional costs are subtracted per idea removed, but you also gain some base stability per idea removed (it's however somewhat rare to have more than one foreign poltical influence on your country at once.)
 
 [*]Some nice flavor text for y'all.[/list]
 
@@ -36,7 +36,7 @@ A simple decision mod to retake control of your own politics[/h1]
 [*]Which languages are supported in the current version?
 - English
 - Spanish (thanks to [i]Sir. Paulord [HFGL][/i])
-- No support for the other languages yet (though the mod can of course still be played in those languages, it just won't look/read as nicely). Feel free to volunteer to translate, though! Credits will of course be given, and it should take at most an hour (maybe more if you're really, really thorough) due to the small size and scope of the mod.[/list]
+- No support for the other languages yet (though the mod can of course still be played in those languages, it just won't look/read as nicely.) Feel free to volunteer to translate, though! Credits will of course be given, and it should take at most an hour (maybe more if you're really, really thorough) due to the small size and scope of the mod.[/list]
 
 
 

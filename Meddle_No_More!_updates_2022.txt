@@ -1,0 +1,22 @@
+07.08.2022
+Version 1.0.3 - Barbarossa/No Step Back update with small decision and AI improvements (1.11.* Barbarossa compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated for the newest HoI IV version (1.11.* Barbarossa/No Step Back compatible.)[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Clean up for the descriptor file and the thumbnail image. The thumbnail image has also been changed to a .png-file.
+
+[*]Fixed the MNM decisions' AI considerations to take into account the new focuses in the Polish focus tree.
+
+[*]Fixed the Counteract Foreign Political Influences decision to properly check for the Communist Pressure idea rather than the Communist Influence idea when removing this. Weird check and effect combinations from this decision should now have been fixed.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+

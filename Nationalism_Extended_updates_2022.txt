@@ -1,0 +1,84 @@
+07.08.2022
+Version 1.3.2 - Update for No Step Back/Barbarossa, fixes and small improvements (1.11.* Barbarossa compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated for the newest HoI IV version (1.11.* Barbarossa/No Step Back compatible.) This includes such things as the proper new cost reduction system for doctrines in focus trees, the character system, AI considerations with the Soviet Union's actions and other things Paradox has added since this mod last was updated.
+
+[*]Fixed the random outcomes for the traditionalist/non-aligned political rally by creating new events to draw from. Outcome chances now also visible when hovering the mouse over the starter event option.
+
+[*]The Polish focus tree is no longer edited by this mod as Paradox improved on the old one.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]New localisation for the traditionalist/non-aligned political rally events.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Clean up for the descriptor file and the thumbnail image. Finally got the new redesigned thumbnail image to show up as of this version. It's also been changed to a .png-file.
+
+[*]Added additional naval doctrine reduction costs in the Large Navy generic focus and the Restoration and Reform Hungarian focuses.
+
+[*]Fixed the MNM decisions' AI considerations to take into account the new focuses in the Polish focus tree.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+07.08.2022
+Version 1.3.2a - Small decision hotfix imported from MNM (1.11.* Barbarossa compatible)
+
+[b]Balance and fixes[/b]
+[list]
+[*]Fixed the Counteract Foreign Political Influences decision to properly check for the Communist Pressure idea rather than the Communist Influence idea when removing this. Weird check and effect combinations from this decision should now have been fixed.[/list]
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+30.09.2022
+Version 1.3.3 - Update for By Blood Alone/Avalanche, update, content streamlining and new decisions (1.12.* Avalanche compatible)
+
+[b]Content[/b]
+[list]
+[*]Updated for the newest HoI IV version (1.12.* By Blood Alone/Avalanche compatible.) Airframe categories for tech reductions in focus trees being one such example, as well as adapting some Hungarian focuses for the new states added (including in some NE-added focuses and decisions.)
+
+[*]Removed now redundant fixes and improvements to Italy by removing both ai_focuses/ITA.txt and national_focus/italy.txt from the mod's common-folder.
+
+[*]Added six new land reintegration focuses to Austria (three for integrating states, and three for fully incorporating new states), that target the new states added. Updated the old ones. Added some new unique functionality to the decision for the important port of Triest/Trieste.
+
+[*]Added two new land reintegration decisions to Hungary (one each for integration/full incorporation) targeting Northern Transylvania.[/list]
+
+
+
+[b]Localisation[/b]
+[list]
+[*]New localisation for the new decisions added, and updates to older decisions due to states being split into new states.
+
+[*]Renamed the "Popular speech reception" event title to "Warm speech reception" which seemed more fitting.
+
+[*]Standardized the capitalization of the "Fully incorporate x"-decisions.[/list]
+
+
+
+[b]Balance and fixes[/b]
+[list]
+[*]Added the new airframe categories to technology cost reductions in focuses like mentioned above.
+
+[*]Updated focuses' state targets both in regards to new states and to update some older code.
+
+[*]Some light focus-filter and ai-modifier updates to the generic focus tree in line with the new update.
+
+[*]Generic ideas and Yugoslavian ideas updated with new stuff from the Avalanche update.
+
+[*]Nationalism Extended's unique ideas now target the new equipment categories for artillery and anti-tank equipment properly.[/list]
+
+
