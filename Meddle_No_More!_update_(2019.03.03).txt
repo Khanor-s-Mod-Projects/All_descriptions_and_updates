@@ -1,5 +1,5 @@
 03.03.2019
-Version 1.0.1b - MtG update and slight AI improvements
+Version 1.0.1a - MtG update and slight AI improvements
 
 [b]Features[/b]
 [list]

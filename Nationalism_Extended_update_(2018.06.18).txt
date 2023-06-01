@@ -1,5 +1,5 @@
 18.06.2018
-Version 1.2.1b - Small compatibility update, for "Alt-History Toggle" (1.5.3 WtT compatible)
+Version 1.2.1a - Small compatibility update, for "Alt-History Toggle" (1.5.3 WtT compatible)
 
 [b]Other[/b]
 [list]

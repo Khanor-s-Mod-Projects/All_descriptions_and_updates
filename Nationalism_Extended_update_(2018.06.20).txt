@@ -1,5 +1,5 @@
 20.06.2018
-Version 1.2.1c - Small balance update to make the Traditionalist branch more playable (1.5.3 WtT compatible)
+Version 1.2.1b - Small balance update to make the Traditionalist branch more playable (1.5.3 WtT compatible)
 
 [b]Balance and fixes[/b]
 [list]
@@ -18,7 +18,7 @@ Version 1.2.1c - Small balance update to make the Traditionalist branch more pla
 
 
 21.06.2018
-Version 1.2.1d - Small compatibility fix (1.5.3 WtT compatible)
+Version 1.2.1c - Small compatibility fix (1.5.3 WtT compatible)
 
 [b]Other[/b]
 [list]

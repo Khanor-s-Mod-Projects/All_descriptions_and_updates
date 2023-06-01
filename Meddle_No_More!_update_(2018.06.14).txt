@@ -4,7 +4,7 @@ Version 1.0.0 - Initial Upload
 
 
 14.06.2018
-Version 1.0.0b - Small update to fix spelling errors and improve the flavor text
+Version 1.0.0a - Small update to fix spelling errors and improve the flavor text
 
 [b]Localisation[/b]
 [list]
@@ -12,7 +12,7 @@ Version 1.0.0b - Small update to fix spelling errors and improve the flavor text
 
 
 
-Version 1.0.0c - Thumbnail update
+Version 1.0.0b - Thumbnail update
 
 [b]Other[/b]
 [list]
